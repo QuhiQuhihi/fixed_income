@@ -1,0 +1,1302 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" prefix="og: http://ogp.me/ns#" lang="en" xml:lang="en">
+<head>
+<title>Error</title>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<meta name="robots" content="noindex,noarchive,nocache" />
+<meta property="og:title" content="Error" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="/blk-one-assets/include/common/images/blackrock_logo.png" />
+<meta property="og:site_name" content="BlackRock" />
+<meta property="og:locale" content="en_US" />
+<link type="image/x-icon" href="/blk-one-assets/ishares-favicon.ico" rel="shortcut icon"/>
+<script nonce="5mKoJPY081Yx7yrjkkK5DQ==">
+//<![CDATA[
+var ASSET_PREFIX_PATH='/blk-one-assets/';
+window['adrum-start-time'] = new Date().getTime();
+//]]>
+</script>
+<script src="/blk-one-assets/include/bundles/minified-2087ce663c5d33cc2a875fb11ef65c14.js" defer="defer"></script>
+<script src="/blk-one-assets/include/bundles/minified-d93d1cc41c5d99dd868e9c549afb79cd.js" defer="defer"></script>
+<script src="/blk-one-assets/include/bundles/minified-af236c5dcac8255a498b2d197a908aae.js" defer="defer"></script>
+<script src="/blk-one-assets/include/bundles/minified-a3631fd1cdc2d27ec3c5f13d1fdd1ff3.js" defer="defer"></script>
+<script src="/blk-one-assets/include/bundles/minified-abc31522ed3ff72c344305a8e3bfa97b.js" defer="defer"></script>
+<script src="/blk-one-assets/include/bundles/minified-2278255e6ee64b16d3d5dd6174428ed.js" defer="defer"></script>
+<script src="/blk-one-assets/include/bundles/minified-7d6d0e42ceba78302d8aa9805dd29db2.js" defer="defer"></script>
+<script src="/blk-one-assets/include/bundles/minified-deb49b07dc4eb23e9710dcd6c9ff233e.js" defer="defer"></script>
+<!-- BUNDLE: ipx-compare-us-ishares -->
+<script src="/blk-one-assets/include/app-container/ipx-compare-17d055be7e8/runtime.0e49e2b53282f40c8925.js" defer="defer"></script>
+<script src="/blk-one-assets/include/app-container/ipx-compare-17d055be7e8/polyfills-es5.e733196885e48cc64708.js" defer="defer"></script>
+<script src="/blk-one-assets/include/app-container/ipx-compare-17d055be7e8/polyfills.7d18591d3495d2296cdc.js" defer="defer"></script>
+<script src="/blk-one-assets/include/app-container/ipx-compare-17d055be7e8/scripts.6c900310e2ff2974eb05.js" defer="defer"></script>
+<script src="/blk-one-assets/include/app-container/ipx-compare-17d055be7e8/main.e6fe1395f284eb97e9b0.js" defer="defer"></script>
+<script nonce="5mKoJPY081Yx7yrjkkK5DQ==">
+//<![CDATA[
+var vice= { config: { viceAccountId: 'blackrock', viceSiteId: 'isharesprod', viceZoneId: '', viceSectionId: '' } }
+//]]>
+</script>
+<script src="//sourcedefense.blackrock.com/cdncch/vice_loader/blackrock/isharesprod"></script>
+<script nonce="5mKoJPY081Yx7yrjkkK5DQ==">
+//<![CDATA[
+var BLK = { deferredFunctions: [], ready: function(f) { BLK.deferredFunctions.push(f); } };
+var adobe_report_suite_id,adobe_portfolio_id,adobe_ticker,adobe_product_type,adobe_logged_in,adobe_logged_out,adobe_registration_submitted,partner_name,partner_user_id,partner_firm_name,ignore_adobe_for_user;
+adobe_report_suite_id='blk-global-prod,blk-us-ishares-prod';
+var globalAnalyticsParams = {
+googleSiteId: "UA-51649809-1",
+envNet: "dmz",
+envType: "prod",
+pageName: "error",
+siteName: "us-ishares",
+country: "us",
+languageSelector: "en",
+isInternalTraffic: "false",
+isInternalLogin: "false",
+siteSection: "administration",
+padlockedContent: "no",
+webTrackingId: "",
+loggedIn: "no",
+analyticsAllowed: "false",
+enableAbTesting: "false"
+};
+var NTPT_GLBLEXTRA = "site=us-ishares"
++ "&env=prod"
++ "&language=en"
++ "&country=" + globalAnalyticsParams.country
++ "&usertype=individual"
++ "&investorType="
++ "&un="
++ "&loggedin=no"
++ "&firm=" + encodeURIComponent("")
++ "&pagename=" + encodeURIComponent(globalAnalyticsParams.pageName)
++ "&cc1=" + encodeURIComponent("administration")
++ "&padlocked=no"
+;
+BLK.ready(function(){
+var autoBlockScriptTag = document.createElement('script'), head = document.getElementsByTagName('head')[0];
+autoBlockScriptTag.type = 'text/javascript';
+autoBlockScriptTag.src = 'https://cdn.cookielaw.org/consent/33b411af-181e-4070-8e57-d9cf1908e0bd/OtAutoBlock.js';
+head.appendChild(autoBlockScriptTag);
+var scriptTag = document.createElement('script'), head = document.getElementsByTagName('head')[0];
+scriptTag.type = 'text/javascript';
+scriptTag.src = "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js";
+scriptTag.setAttribute("data-domain-script", "33b411af-181e-4070-8e57-d9cf1908e0bd");
+scriptTag.setAttribute("data-document-language", "true");
+scriptTag.setAttribute("charset", "UTF-8");
+head.appendChild(scriptTag);
+});
+function getCookie(name) {
+var value = "; " + document.cookie;
+var parts = value.split("; " + name + "=");
+if (parts.length == 2) return parts.pop().split(";").shift();
+}
+globalAnalyticsParams.bannerAcceptBtn= "not listening"
+globalAnalyticsParams.pcAllowAllBtn= "not listening"
+globalAnalyticsParams.pcSaveBtn = "not listening"
+OptanonWrapper = function() {
+console.log("OptanonWrapper called");
+var OABCcookieName = "OptanonAlertBoxClosed";
+var bannerAcceptBtn = document.getElementById("onetrust-accept-btn-handler");
+var pcAllowAllBtn = document.getElementById("accept-recommended-btn-handler");
+var pcSaveBtn = document.getElementsByClassName("save-preference-btn-handler onetrust-close-btn-handler")[0];
+var OABCcookie = getCookie(OABCcookieName);
+if (!OABCcookie && bannerAcceptBtn && globalAnalyticsParams.bannerAcceptBtn =="not listening") {
+bannerAcceptBtn.addEventListener('click', function(event){
+utag.link(
+{ "link_name": "Allowed all via Banner" }
+);
+});
+globalAnalyticsParams.bannerAcceptBtn="listening";
+}
+if (pcAllowAllBtn && globalAnalyticsParams.pcAllowAllBtn=="not listening"){
+pcAllowAllBtn.addEventListener('click', function(event){
+utag.link(
+{ "link_name": "Allowed all via Preference Center" }
+);
+});
+globalAnalyticsParams.pcAllowAllBtn="listening";
+}
+if (pcSaveBtn && globalAnalyticsParams.pcSaveBtn=="not listening"){
+pcSaveBtn.addEventListener('click', function(event){
+utag.link(
+{ "link_name": "Set custom settings via Preference Center" }
+);
+});
+globalAnalyticsParams.pcSaveBtn="listening"
+}
+}
+BLK.ready(function(){
+(function(a,b,c,d){
+a='//tags.tiqcdn.com/utag/blackrock/main/prod/utag.js';
+b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+}
+)();
+});
+BLK.isCwpUserSignedIn = false;
+BLK.apiGatewayUrl = "https://www.blackrock.com/api-gateway";
+BLK.apigeePath = "https://api.blackrock.com";
+//]]>
+</script>
+<script nonce="5mKoJPY081Yx7yrjkkK5DQ==">
+//<![CDATA[
+(function(){
+if (typeof BLK === "undefined" || !BLK) {
+window.BLK = {};
+}
+BLK["isAtmos"] = false;
+})();
+//]]>
+</script>
+<link rel="stylesheet" type="text/css" href="/blk-one-assets/include/bundles/minified-295d45c082c1b6551ebbf161b68361dd.css" />
+<link rel="stylesheet" type="text/css" href="/blk-one-assets/include/bundles/minified-7b03950c91bd3e02aec77aaa88954e68.css" />
+<link rel="stylesheet" type="text/css" href="/blk-one-assets/include/bundles/minified-e2c6246d399bfa5004b528247352dda4.css" />
+<link rel="stylesheet" type="text/css" href="/blk-one-assets/include/bundles/minified-cde4dde6a09aca23f7c5b6f117e0fe68.css" />
+<link rel="stylesheet" type="text/css" href="/blk-one-assets/include/bundles/minified-d47ced67fb0bf8140f836670539b6680.css" />
+<link rel="stylesheet" type="text/css" href="/blk-one-assets/include/bundles/minified-6715ebef6ac459fe72a8dcbedc86a6ff.css" />
+<link rel="stylesheet" type="text/css" href="/blk-one-assets/include/bundles/minified-bcc17d66ca66b2742f8c240497925528.css" />
+<link rel="stylesheet" type="text/css" href="/blk-one-assets/include/bundles/minified-6715ebef6ac459fe72a8dcbedc86a6ff.css" />
+<!-- BUNDLE: ipx-compare-us-ishares -->
+<link rel="stylesheet" type="text/css" href="/blk-one-assets/include/app-container/ipx-compare-17d055be7e8/styles.e092536cc827b380a800.css" />
+<link rel="stylesheet" type="text/css" href="/blk-one-assets/include/bundles/minified-899979f99ef686d35071df77223ded04.css" />
+</head>
+<body id="us-ishares" class="blkPage page-class-error blk-responsive en_US" tabindex="-1">
+<!-- DISPLAYING SITE ERROR PAGE FOR URI: &#x2f;us&#x2f;literature&#x2f;holdings&#x2f;ishigib-etf-early-holdings.csv
+[4953f12a-17dc4ab5351] HTTP 404 - Document&#x28;s&#x29; &#x5b;&#x2f;holdings&#x2f;ishigib-etf-early-holdings.csv&#x5d; not found
+-->
+<div class="ls-canvas content-page-wide-12"><div class="ls-row" id="mastheadWrapper" role="banner">
+<div class="ls-area">
+<div class="ls-cmp-wrap"  id="w1512667753109" >
+<div class="iw_component"  id="c1512667753109" >
+
+<!-- COMPONENT: vi16-page-frame/Masthead -->
+<a id="skip-to-content" href="#bodyWrapper">Skip to content</a>
+<div data-componentName="Masthead">
+<section brand="ishares" grid="wide-fluid">
+<ds-global-nav class="container-fluid ds-body-xs">
+<header class="row">
+<section class="ds-col ds-left">
+<ul class="ds-l1-menu ds-brand-site-links">
+<li>
+<a href="https://www.blackrock.com/us/individual" data-link-event="cta:BlackRock" aria-label="Go to the BlackRock homepage" target="_blank" class="ds-link-subdued-secondary"> BlackRock
+</a> </li>
+<li>
+<a href="https://www.ishares.com/us" data-link-event="cta:iShares" aria-label="Go to the iShares homepage" target="_self" class="ds-link-subdued-secondary"> iShares
+</a> </li>
+<li>
+<a href="https://www.blackrock.com/aladdin" data-link-event="cta:Aladdin" aria-label="Go to the Aladdin homepage" target="_blank" class="ds-link-subdued-secondary"> Aladdin
+</a> </li>
+</ul>
+</section>
+<section class="ds-col ds-right">
+<div class="ds-country-dropdown">
+<input type="hidden" id="ds-current-country" value="United States">
+<ds-navigation-dropdown>
+<button class="ds-body-xs">
+<span>United States <i class="fa fa-caret-down"></i></span>
+</button>
+</ds-navigation-dropdown>
+</div>
+<script nonce="5mKoJPY081Yx7yrjkkK5DQ==">
+//<![CDATA[
+if (_ebzRpJsHost == undefined) { var _ebzRpJsHost = 'https://www.blackrock.com//userplatform'; var _appDomain = 'www.ishares.com:443'; var _uiSiteID = 'us-ishares-en_US'; }
+//]]>
+</script>
+<div class="ds-sign-in-cta">
+<a href="/us/sign-on.saml?redirectUrl=%2Fus%2Ferror" title="Sign In" aria-label="Sign In"> <span class="ds-eyebrow-s">
+Sign In <i class="fa fa-chevron-right" aria-hidden="true"></i>
+</span>
+</a> </div>
+</section>
+<ds-global-nav-mobile-menu>
+<ul class="ds-l1-menu" role="menubar">
+<li class="ds-country ds-l1-menu-item ds-body-m">
+<a class="ds-l1-menu-item-link" href="#" role="menuitem" aria-haspopup="true" aria-expanded="false">
+<div class="ds-l1-link-text">
+United States </div>
+<i class="fa fa-chevron-right" aria-hidden="true"></i>
+</a>
+<ds-responsive-nav-menu-drawer class="ds-default-rendered" role="menu">
+<div class="ds-nav-menu-drawer-content">
+<div class="ds-back-to-l1">
+<a class="ds-body-m-bold ds-link-subdued-secondary" href="#" role="button">
+<i class="fa fa-chevron-left"></i>Change location
+</a>
+</div>
+<ds-country-selector>
+<ul class="ds-country-selections-wrapper">
+<li class="ds-country-selected ds-country-selected-featured">
+<a href="/us?locale=US&amp;switch=y" id="cs-US" data-link-event="country:US" class="ds-link-subdued-secondary ds-country-selection ds-body-m">United States <i class="fas fa-check" aria-hidden="true"></i>
+</a> </li>
+<li class="ds-country-selected ds-country-selected-listed">
+<a href="/us?locale=US&amp;switch=y" id="cs-US" data-link-event="country:United States" aria-label="US" class="ds-link-subdued-secondary ds-country-selection ds-body-m"> United States
+<i class="fas fa-check" aria-hidden="true"></i>
+</a> </li>
+<li >
+<a href="/us/ishares-global?locale=ZZ&amp;switch=y" id="cs-ZZ" data-link-event="country:Location not listed" aria-label="ZZ" class="ds-link-subdued-secondary ds-country-selection ds-body-m"> Location not listed
+</a> </li>
+</ul>
+</ds-country-selector>
+</div>
+</ds-responsive-nav-menu-drawer>
+</li>
+</ul>
+<script nonce="5mKoJPY081Yx7yrjkkK5DQ==">
+//<![CDATA[
+if (_ebzRpJsHost == undefined) { var _ebzRpJsHost = 'https://www.blackrock.com//userplatform'; var _appDomain = 'www.ishares.com:443'; var _uiSiteID = 'us-ishares-en_US'; }
+//]]>
+</script>
+<ul class="ds-l1-menu ds-sign-in-menu">
+<li class="ds-l1-menu-item ds-body-m-bold">
+<a href="/us/sign-on.saml?redirectUrl=%2Fus%2Ferror" title="Sign In" aria-label="Sign In" class="ds-l1-menu-item-link ds-sign-in"> <div class="ds-l1-link-text">Sign In</div>
+<i class="fa fa-chevron-right" aria-hidden="true"></i>
+</a> </li>
+</ul>
+<ul class="ds-l1-menu ds-brand-site-links">
+<li>
+<a href="https://www.blackrock.com/us/individual" data-link-event="cta:BlackRock" aria-label="Go to the BlackRock homepage" target="_blank" class="ds-link-subdued-secondary"> BlackRock
+</a> </li>
+<li>
+<a href="https://www.ishares.com/us" data-link-event="cta:iShares" aria-label="Go to the iShares homepage" target="_self" class="ds-link-subdued-secondary"> iShares
+</a> </li>
+<li>
+<a href="https://www.blackrock.com/aladdin" data-link-event="cta:Aladdin" aria-label="Go to the Aladdin homepage" target="_blank" class="ds-link-subdued-secondary"> Aladdin
+</a> </li>
+</ul>
+</ds-global-nav-mobile-menu>
+</header>
+<ds-drawer class="ds-country-selector" no-border mode="reveal">
+<div class="ds-drawer-container">
+<div class="container-fluid">
+<div class="row">
+<div class="col ds-col">
+<div class="ds-drawer-content">
+<ds-country-selector>
+<header class="ds-country-selector-header">
+<div class="d-flex justify-content-end">
+<div class="ds-button ds-country-close" type="transparent" compact no-min-width>
+<div class="ds-button-container">
+<button class="ds-close-button">
+CLOSE <i class="fa fa-close" aria-hidden="true"></i>
+</button>
+</div>
+</div>
+</div>
+<h3 class="ds-heading-m-lc">Change your location</h3>
+</header>
+<ul class="ds-country-selections-wrapper">
+<li class="ds-country-selected ds-country-selected-featured">
+<a href="/us?locale=US&amp;switch=y" id="cs-US" data-link-event="country:US" class="ds-link-subdued-secondary ds-country-selection ds-body-m">United States <i class="fas fa-check" aria-hidden="true"></i>
+</a> </li>
+<li class="ds-country-selected ds-country-selected-listed">
+<a href="/us?locale=US&amp;switch=y" id="cs-US" data-link-event="country:United States" aria-label="US" class="ds-link-subdued-secondary ds-country-selection ds-body-m"> United States
+<i class="fas fa-check" aria-hidden="true"></i>
+</a> </li>
+<li >
+<a href="/us/ishares-global?locale=ZZ&amp;switch=y" id="cs-ZZ" data-link-event="country:Location not listed" aria-label="ZZ" class="ds-link-subdued-secondary ds-country-selection ds-body-m"> Location not listed
+</a> </li>
+</ul>
+</ds-country-selector>
+</div>
+</div>
+</div>
+</div>
+<div class="ds-drawer-full-width-content"></div>
+</div>
+</ds-drawer>
+</ds-global-nav>
+</section>
+</div></div>
+</div>
+</div>
+<div class="ls-area" id="navWrapper">
+<div class="ls-cmp-wrap"  id="w1512667753110" >
+<div class="iw_component"  id="c1512667753110" >
+
+<!-- COMPONENT: vi16-page-frame/Main Nav -->
+<div data-componentName="Main Nav">
+<section brand="ishares" grid="wide-fluid">
+<ds-primary-nav class="container-fluid">
+<span hidden id="primary-nav-label">
+Primary Navigation </span>
+<section class="ds-primary-nav-container">
+<ds-overlay class="ds-primary-nav-overlay"></ds-overlay>
+<div class="ds-top-row">
+<div class="ds-top-left-container">
+<ds-hamburger-button>
+<button aria-labelledby="primary-nav-label" aria-expanded="false">
+<span></span>
+</button>
+</ds-hamburger-button>
+<a href="/us" title="Go to iShares Homepage" class="ds-ishares-logo"><img src="/blk-one-assets/cache-1576004812000/images/media-bin/web/global/logos/logo-ishares.svg" alt="Home"/></a> </div>
+<div class="ds-center-container">
+</div>
+<div class="ds-nav-icons">
+<div class="ds-compare-basket">
+<div class="compare-basket-button">
+</div>
+</div>
+<div class="ds-search">
+<button title="" aria-label="Search">
+<div class="ds-icon-button-container">
+<span class="ds-search-icon"><i class="fa fa-search search" data-id="search" role="button" aria-expanded="false"></i></span>
+<span class="ds-search-text ds-body-s">Search</span>
+</div>
+</button>
+</div>
+</div>
+</div>
+<div class="ds-bottom-row">
+<ds-responsive-nav-menu>
+<nav class="ds-navigation" aria-labelledby="primary-nav-label">
+<ul class="ds-l1-menu" data-level-shown="l1" role="menubar">
+<li class="ds-l1-menu-item ds-body-m-bold" role="none">
+<a class="ds-l1-menu-item-link" href="#" role="menuitem" aria-haspopup="true" aria-expanded="false" data-link-event="Our Funds">
+<div class="ds-l1-link-text">
+Our Funds </div>
+<span class="fa fa-chevron-right"></span>
+</a>
+<ds-responsive-nav-menu-drawer class="ds-default-rendered" role="menu">
+<div class="ds-nav-menu-drawer-content">
+<div class="ds-back-to-l1">
+<a class="ds-body-m-bold ds-link-subdued-secondary" href="#" role="button"><i class="fa fa-chevron-left"></i>Our Funds</a>
+</div>
+<div class="ds-categorised-links-wrapper ">
+<ul class="ds-categorised-links" role="none">
+<li class="ds-l2-category-name ds-eyebrow-s">FIND A FUND</li>
+<li class="ds-l3-menu-item" role="none">
+<a href="/us/products/etf-investments" role="menuitem" data-link-event="Our Funds:View all funds" target="_top" class="ds-body-m ds-link-subdued-secondary">View all funds</a> </li>
+<li class="ds-l3-menu-item" role="none">
+<a href="/us/products/investment-goals" role="menuitem" data-link-event="Our Funds:Explore by goals" class="ds-body-m ds-link-subdued-secondary">Explore by goals</a> </li>
+<li class="ds-l3-menu-item" role="none">
+<a href="/us/products/compare-funds" role="menuitem" data-link-event="Our Funds:Compare ETFs" class="ds-body-m ds-link-subdued-secondary">Compare ETFs</a> </li>
+</ul>
+<ul class="ds-categorised-links" role="none">
+<li class="ds-l2-category-name ds-eyebrow-s">ASSET CLASS</li>
+<li class="ds-l3-menu-item" role="none">
+<a href="/us/products/etf-investments#/?productView=etf&amp;fac=43535|43580|43581|43584|43585|43615" role="menuitem" data-link-event="Our Funds:Equity" target="_top" class="ds-body-m ds-link-subdued-secondary">Equity</a> </li>
+<li class="ds-l3-menu-item" role="none">
+<a href="/us/products/etf-investments#/?productView=etf&amp;fac=43549|43590|43563|43566|43573|43775|43588&amp;dataView=fixedIncomeView" role="menuitem" data-link-event="Our Funds:Fixed Income" target="_top" class="ds-body-m ds-link-subdued-secondary">Fixed Income</a> </li>
+<li class="ds-l3-menu-item" role="none">
+<a href="/us/products/etf-investments#/?productView=etf&amp;fac=43587|43608" role="menuitem" data-link-event="Our Funds:Commodity" target="_top" class="ds-body-m ds-link-subdued-secondary">Commodity</a> </li>
+<li class="ds-l3-menu-item" role="none">
+<a href="/us/products/etf-investments#/?productView=etf&amp;fac=43776" role="menuitem" data-link-event="Our Funds:Real Estate" target="_top" class="ds-body-m ds-link-subdued-secondary">Real Estate</a> </li>
+</ul>
+<ul class="ds-categorised-links" role="none">
+<li class="ds-l2-category-name ds-eyebrow-s">PRODUCT RANGE</li>
+<li class="ds-l3-menu-item" role="none">
+<a href="/us/products/etf-investments#/?productView=etf&amp;ptrg=4|10|6|2|8" role="menuitem" data-link-event="Our Funds:Core" target="_top" class="ds-body-m ds-link-subdued-secondary">Core</a> </li>
+<li class="ds-l3-menu-item" role="none">
+<a href="/us/products/etf-investments#/?productView=etf&amp;ptrg=81|75|77|83|79|85" role="menuitem" data-link-event="Our Funds:Factors" target="_top" class="ds-body-m ds-link-subdued-secondary">Factors</a> </li>
+<li class="ds-l3-menu-item" role="none">
+<a href="/us/products/etf-investments#/?productView=etf&amp;ptrg=19|22|13|16|25|34|46|49|28|31|40|37|43|55|52|73|70|67|64|61|58" role="menuitem" data-link-event="Our Funds:Fixed Income" class="ds-body-m ds-link-subdued-secondary">Fixed Income</a> </li>
+<li class="ds-l3-menu-item" role="none">
+<a href="/us/products/etf-investments#/?productView=etf&amp;ptrg=105|103|99|107|101" role="menuitem" data-link-event="Our Funds:Megatrends" target="_top" class="ds-body-m ds-link-subdued-secondary">Megatrends</a> </li>
+<li class="ds-l3-menu-item" role="none">
+<a href="/us/products/etf-investments#/?productView=etf&amp;ptrg=93|95|97|91" role="menuitem" data-link-event="Our Funds:Sustainable" target="_top" class="ds-body-m ds-link-subdued-secondary">Sustainable</a> </li>
+</ul>
+<ul class="ds-categorised-links" role="none">
+<li class="ds-l2-category-name ds-eyebrow-s">FINANCIAL PROFESSIONALS</li>
+<li class="ds-l3-menu-item" role="none">
+<a href="/us/products/correlate-funds" role="menuitem" data-link-event="Our Funds:Find correlated funds" target="_top" class="ds-body-m ds-link-subdued-secondary padlock">Find correlated funds</a> </li>
+</ul>
+</div>
+<div class="ds-special-links">
+<ul role="none">
+<li role="none">
+<div class="ds-button" type="transparent" compact="true">
+<div class="ds-button-container">
+<a href="https://www.blackrock.com/us/financial-professionals/investments/ishares-etfs" role="menuitem" data-link-event="cta:ADVISORS: HELP MEET CLIENTS' NEEDS WITH iSHARES ETFs" aria_label="ADVISORS: HELP MEET CLIENTS' NEEDS WITH iSHARES ETFs" target="_blank" class="ds-button-small"> ADVISORS: HELP MEET CLIENTS' NEEDS WITH iSHARES ETFs
+<i class="fa fa-chevron-right"></i>
+</a> </div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</ds-responsive-nav-menu-drawer>
+</li>
+<li class="ds-l1-menu-item ds-body-m-bold" role="none">
+<a class="ds-l1-menu-item-link" href="#" role="menuitem" aria-haspopup="true" aria-expanded="false" data-link-event="Investment Strategies">
+<div class="ds-l1-link-text">
+Investment Strategies </div>
+<span class="fa fa-chevron-right"></span>
+</a>
+<ds-responsive-nav-menu-drawer class="ds-default-rendered" role="menu">
+<div class="ds-nav-menu-drawer-content">
+<div class="ds-back-to-l1">
+<a class="ds-body-m-bold ds-link-subdued-secondary" href="#" role="button"><i class="fa fa-chevron-left"></i>Investment Strategies</a>
+</div>
+<div class="ds-button ds-l2-hub-link" type="transparent" compact="true">
+<div class="ds-button-container">
+<a href="https://www.ishares.com/us/strategies" role="menuitem" data-link-event="cta:OUR STRATEGIES" target="_self" class="ds-button-small">OUR STRATEGIES<i class="fa fa-chevron-right"></i></a>
+</div>
+<hr class="ds-text-ishares-divider-4">
+</div>
+<div class="ds-categorised-links-wrapper ds-margin-3-columns">
+<ul class="ds-categorised-links" role="none">
+<li class="ds-l2-category-name ds-eyebrow-s">GET STARTED</li>
+<li class="ds-l3-menu-item" role="none">
+<a href="/us/strategies/core-etfs" role="menuitem" data-link-event="Investment Strategies:Explore simplified investing" class="ds-body-m ds-link-subdued-secondary">Explore simplified investing</a> </li>
+<li class="ds-l3-menu-item" role="none">
+<a href="/us/strategies/invest-with-bond-etfs" role="menuitem" data-link-event="Investment Strategies:Invest with bond ETFs" target="_top" class="ds-body-m ds-link-subdued-secondary">Invest with bond ETFs</a> </li>
+<li class="ds-l3-menu-item" role="none">
+<a href="/us/strategies/smart-beta-investing" role="menuitem" data-link-event="Investment Strategies:Access factor-based strategies" target="_top" class="ds-body-m ds-link-subdued-secondary">Access factor-based strategies</a> </li>
+<li class="ds-l3-menu-item" role="none">
+<a href="/us/strategies/find-income-with-ishares" role="menuitem" data-link-event="Investment Strategies:Find income with ETFs" target="_top" class="ds-body-m ds-link-subdued-secondary">Find income with ETFs</a> </li>
+</ul>
+<ul class="ds-categorised-links" role="none">
+<li class="ds-l2-category-name ds-eyebrow-s">GO FURTHER</li>
+<li class="ds-l3-menu-item" role="none">
+<a href="/us/strategies/megatrends" role="menuitem" data-link-event="Investment Strategies:Invest in the future with megatrends" class="ds-body-m ds-link-subdued-secondary">Invest in the future with megatrends</a> </li>
+<li class="ds-l3-menu-item" role="none">
+<a href="/us/strategies/international-etfs" role="menuitem" data-link-event="Investment Strategies:Diversify internationally" class="ds-body-m ds-link-subdued-secondary">Diversify internationally</a> </li>
+<li class="ds-l3-menu-item" role="none">
+<a href="/us/strategies/commodities" role="menuitem" data-link-event="Investment Strategies:Access commodities with ETPs" class="ds-body-m ds-link-subdued-secondary">Access commodities with ETPs</a> </li>
+</ul>
+<ul class="ds-categorised-links" role="none">
+<li class="ds-l2-category-name ds-eyebrow-s">THINK SUSTAINABLE</li>
+<li class="ds-l3-menu-item" role="none">
+<a href="/us/strategies/sustainable-investing" role="menuitem" data-link-event="Investment Strategies:Learn about sustainable investing" class="ds-body-m ds-link-subdued-secondary">Learn about sustainable investing</a> </li>
+<li class="ds-l3-menu-item" role="none">
+<a href="/us/strategies/sustainable-investing/esg-fund-range" role="menuitem" data-link-event="Investment Strategies:Match your investment goals to sustainable ETFs" class="ds-body-m ds-link-subdued-secondary">Match your investment goals to sustainable ETFs</a> </li>
+</ul>
+</div>
+<div class="ds-special-links">
+<ul role="none">
+<li role="none">
+<div class="ds-button" type="transparent" compact="true">
+<div class="ds-button-container">
+<a href="https://www.blackrock.com/us/financial-professionals/investment-strategies/preparing-portfolios" role="menuitem" data-link-event="cta:ADVISORS: REDESIGN PORTFOLIOS" aria_label="ADVISORS: REDESIGN PORTFOLIOS" target="_blank" class="ds-button-small"> ADVISORS: REDESIGN PORTFOLIOS
+<i class="fa fa-chevron-right"></i>
+</a> </div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</ds-responsive-nav-menu-drawer>
+</li>
+<li class="ds-l1-menu-item ds-body-m-bold" role="none">
+<a class="ds-l1-menu-item-link" href="#" role="menuitem" aria-haspopup="true" aria-expanded="false" data-link-event="Market Insights">
+<div class="ds-l1-link-text">
+Market Insights </div>
+<span class="fa fa-chevron-right"></span>
+</a>
+<ds-responsive-nav-menu-drawer class="ds-default-rendered" role="menu">
+<div class="ds-nav-menu-drawer-content">
+<div class="ds-back-to-l1">
+<a class="ds-body-m-bold ds-link-subdued-secondary" href="#" role="button"><i class="fa fa-chevron-left"></i>Market Insights</a>
+</div>
+<div class="ds-button ds-l2-hub-link" type="transparent" compact="true">
+<div class="ds-button-container">
+<a href="https://www.ishares.com/us/insights" role="menuitem" data-link-event="cta:OUTLOOK & INSIGHTS" target="_self" class="ds-button-small">OUTLOOK & INSIGHTS<i class="fa fa-chevron-right"></i></a>
+</div>
+<hr class="ds-text-ishares-divider-4">
+</div>
+<div class="ds-categorised-links-wrapper ds-margin-2-columns">
+<ul class="ds-categorised-links" role="none">
+<li class="ds-l2-category-name ds-eyebrow-s">MARKET INSIGHTS</li>
+<li class="ds-l3-menu-item" role="none">
+<a href="/us/insights/etf-trends/how-climate-change-will-impact-portfolios" role="menuitem" data-link-event="Market Insights:A sea change in global investing" class="ds-body-m ds-link-subdued-secondary">A sea change in global investing</a> </li>
+<li class="ds-l3-menu-item" role="none">
+<a href="/us/insights/investor-progress-report" role="menuitem" data-link-event="Market Insights:iShares report on investor progress" class="ds-body-m ds-link-subdued-secondary">iShares report on investor progress</a> </li>
+<li class="ds-l3-menu-item" role="none">
+<a href="/us/insights/ishares-2022-outlook-and-etf-investment-guide" role="menuitem" data-link-event="Market Insights:iShares 2022 outlook and ETF implementation guide" class="ds-body-m ds-link-subdued-secondary">iShares 2022 outlook and ETF implementation guide</a> </li>
+<li class="ds-l3-menu-item" role="none">
+<a href="/us/insights/dividend-growth-and-inflation" role="menuitem" data-link-event="Market Insights:What’s risen faster than inflation? Dividends" class="ds-body-m ds-link-subdued-secondary">What’s risen faster than inflation? Dividends</a> </li>
+</ul>
+<ul class="ds-categorised-links" role="none">
+<li class="ds-l2-category-name ds-eyebrow-s">ETF FLOWS</li>
+<li class="ds-l3-menu-item" role="none">
+<a href="/us/insights/flow-and-tell-november-2021" role="menuitem" data-link-event="Market Insights:Last month&#39;s ETF flows" class="ds-body-m ds-link-subdued-secondary">Last month&#39;s ETF flows</a> </li>
+<li class="ds-l3-menu-item" role="none">
+<a href="https://www.ishares.com/us/insights#etf-flows" role="menuitem" data-link-event="Market Insights:View all ETF flows" class="ds-body-m ds-link-subdued-secondary">View all ETF flows</a> </li>
+</ul>
+</div>
+<div class="ds-special-links">
+<ul role="none">
+<li role="none">
+<div class="ds-button" type="transparent" compact="true">
+<div class="ds-button-container">
+<a href="https://www.blackrock.com/us/financial-professionals/insights" role="menuitem" data-link-event="cta:ADVISORS: EXPLORE INSIGHTS BY BLACKROCK" aria_label="ADVISORS: EXPLORE INSIGHTS BY BLACKROCK" target="_blank" class="ds-button-small"> ADVISORS: EXPLORE INSIGHTS BY BLACKROCK
+<i class="fa fa-chevron-right"></i>
+</a> </div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</ds-responsive-nav-menu-drawer>
+</li>
+<li class="ds-l1-menu-item ds-body-m-bold" role="none">
+<a class="ds-l1-menu-item-link" href="#" role="menuitem" aria-haspopup="true" aria-expanded="false" data-link-event="Education">
+<div class="ds-l1-link-text">
+Education </div>
+<span class="fa fa-chevron-right"></span>
+</a>
+<ds-responsive-nav-menu-drawer class="ds-default-rendered" role="menu">
+<div class="ds-nav-menu-drawer-content">
+<div class="ds-back-to-l1">
+<a class="ds-body-m-bold ds-link-subdued-secondary" href="#" role="button"><i class="fa fa-chevron-left"></i>Education</a>
+</div>
+<div class="ds-categorised-links-wrapper ds-margin-2-columns">
+<ul class="ds-categorised-links" role="none">
+<li class="ds-l2-category-name ds-eyebrow-s">ETFs</li>
+<li class="ds-l3-menu-item" role="none">
+<a href="/us/about-etfs/what-is-an-etf" role="menuitem" data-link-event="Education:What is an ETF?" class="ds-body-m ds-link-subdued-secondary">What is an ETF?</a> </li>
+<li class="ds-l3-menu-item" role="none">
+<a href="/us/education/comparing-etfs-to-mutual-funds" role="menuitem" data-link-event="Education:ETFs vs. Mutual Funds" target="_top" class="ds-body-m ds-link-subdued-secondary">ETFs vs. Mutual Funds</a> </li>
+<li class="ds-l3-menu-item" role="none">
+<a href="/us/about-etfs/how-to-buy-etfs" role="menuitem" data-link-event="Education:How to buy ETFs" class="ds-body-m ds-link-subdued-secondary">How to buy ETFs</a> </li>
+<li class="ds-l3-menu-item" role="none">
+<a href="/us/education/etf-ecosystem" role="menuitem" data-link-event="Education:ETF ecosystem" class="ds-body-m ds-link-subdued-secondary">ETF ecosystem</a> </li>
+</ul>
+<ul class="ds-categorised-links" role="none">
+<li class="ds-l2-category-name ds-eyebrow-s">INDEX INVESTING</li>
+<li class="ds-l3-menu-item" role="none">
+<a href="/us/education/index-investing" role="menuitem" data-link-event="Education:What is index investing?" target="_top" class="ds-body-m ds-link-subdued-secondary">What is index investing?</a> </li>
+<li class="ds-l3-menu-item" role="none">
+<a href="/us/education/bond-indexing" role="menuitem" data-link-event="Education:What is bond indexing?" target="_top" class="ds-body-m ds-link-subdued-secondary">What is bond indexing?</a> </li>
+<li class="ds-l3-menu-item" role="none">
+<a href="/us/education/smart-beta" role="menuitem" data-link-event="Education:What is smart beta?" target="_top" class="ds-body-m ds-link-subdued-secondary">What is smart beta?</a> </li>
+<li class="ds-l3-menu-item" role="none">
+<a href="/us/education/sustainable-investing/resources" role="menuitem" data-link-event="Education:What is sustainable investing?" class="ds-body-m ds-link-subdued-secondary">What is sustainable investing?</a> </li>
+</ul>
+</div>
+<div class="ds-special-links">
+<ul role="none">
+<li role="none">
+<div class="ds-button" type="transparent" compact="true">
+<div class="ds-button-container">
+<a href="https://www.blackrock.com/us/financial-professionals/your-practice/earn-continuing-education-credits" role="menuitem" data-link-event="cta:ADVISORS: EARN CE CREDITS" aria_label="ADVISORS: EARN CE CREDITS" target="_blank" class="ds-button-small"> ADVISORS: EARN CE CREDITS
+<i class="fa fa-chevron-right"></i>
+</a> </div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</ds-responsive-nav-menu-drawer>
+</li>
+<li class="ds-l1-menu-item ds-body-m-bold" role="none">
+<a class="ds-l1-menu-item-link" href="#" role="menuitem" aria-haspopup="true" aria-expanded="false" data-link-event="Resources">
+<div class="ds-l1-link-text">
+Resources </div>
+<span class="fa fa-chevron-right"></span>
+</a>
+<ds-responsive-nav-menu-drawer class="ds-default-rendered" role="menu">
+<div class="ds-nav-menu-drawer-content">
+<div class="ds-back-to-l1">
+<a class="ds-body-m-bold ds-link-subdued-secondary" href="#" role="button"><i class="fa fa-chevron-left"></i>Resources</a>
+</div>
+<div class="ds-categorised-links-wrapper ds-margin-3-columns">
+<ul class="ds-categorised-links" role="none">
+<li class="ds-l2-category-name ds-eyebrow-s">TOOLS</li>
+<li class="ds-l3-menu-item" role="none">
+<a href="/us/resources/tools/core-builder" role="menuitem" data-link-event="Resources:Build a diversified portfolio" target="_blank" class="ds-body-m ds-link-subdued-secondary">Build a diversified portfolio</a> </li>
+<li class="ds-l3-menu-item" role="none">
+<a href="/us/resources/tools/ibonds" role="menuitem" data-link-event="Resources:Customize bond ladders" target="_blank" class="ds-body-m ds-link-subdued-secondary">Customize bond ladders</a> </li>
+<li class="ds-l3-menu-item" role="none">
+<a href="/us/resources/tools" role="menuitem" data-link-event="Resources:View all tools" class="ds-body-m ds-link-subdued-secondary">View all tools</a> </li>
+</ul>
+<ul class="ds-categorised-links" role="none">
+<li class="ds-l2-category-name ds-eyebrow-s">DOCUMENTS</li>
+<li class="ds-l3-menu-item" role="none">
+<a href="/us/library/financial-legal-tax" role="menuitem" data-link-event="Resources:Financial &amp; legal" class="ds-body-m ds-link-subdued-secondary">Financial &amp; legal</a> </li>
+<li class="ds-l3-menu-item" role="none">
+<a href="/us/library" role="menuitem" data-link-event="Resources:View all documents" class="ds-body-m ds-link-subdued-secondary">View all documents</a> </li>
+<li class="ds-l3-menu-item" role="none">
+<a href="/us/education/etfs-and-taxes" role="menuitem" data-link-event="Resources:iShares tax center" class="ds-body-m ds-link-subdued-secondary">iShares tax center</a> </li>
+<li class="ds-l3-menu-item" role="none">
+<a href="/us/library/tax" role="menuitem" data-link-event="Resources:Tax documents" class="ds-body-m ds-link-subdued-secondary">Tax documents</a> </li>
+<li class="ds-l3-menu-item" role="none">
+<a href="/us/capital-gains-distributions" role="menuitem" data-link-event="Resources:Capital gains distributions" target="_top" class="ds-body-m ds-link-subdued-secondary">Capital gains distributions</a> </li>
+</ul>
+<ul class="ds-categorised-links" role="none">
+<li class="ds-l2-category-name ds-eyebrow-s">INSTITUTIONAL RESOURCES</li>
+<li class="ds-l3-menu-item" role="none">
+<a href="/us/resources/institutional-investors" role="menuitem" data-link-event="Resources:Partner with iShares" class="ds-body-m ds-link-subdued-secondary">Partner with iShares</a> </li>
+<li class="ds-l3-menu-item" role="none">
+<a href="/us/resources/institutional-investors/bond-etfs" role="menuitem" data-link-event="Resources:Explore fixed income ETFs" target="_top" class="ds-body-m ds-link-subdued-secondary">Explore fixed income ETFs</a> </li>
+<li class="ds-l3-menu-item" role="none">
+<a href="/us/resources/institutional-investors/tools-services" role="menuitem" data-link-event="Resources:Access tools for institutions" class="ds-body-m ds-link-subdued-secondary">Access tools for institutions</a> </li>
+<li class="ds-l3-menu-item" role="none">
+<a href="/us/resources/institutional-investors/events-and-webcasts" role="menuitem" data-link-event="Resources:Attend virtual events" class="ds-body-m ds-link-subdued-secondary">Attend virtual events</a> </li>
+<li class="ds-l3-menu-item" role="none">
+<a href="/us/resources/institutional-investors/portfolio-consulting" role="menuitem" data-link-event="Resources:Request a portfolio consultation" class="ds-body-m ds-link-subdued-secondary">Request a portfolio consultation</a> </li>
+<li class="ds-l3-menu-item" role="none">
+<a href="/us/resources/institutional-investors/factor-etfs" role="menuitem" data-link-event="Resources:Capture factors with ETFs" class="ds-body-m ds-link-subdued-secondary">Capture factors with ETFs</a> </li>
+</ul>
+</div>
+<div class="ds-special-links">
+<ul role="none">
+<li role="none">
+<div class="ds-button" type="transparent" compact="true">
+<div class="ds-button-container">
+<a href="https://www.blackrock.com/us/financial-professionals/tools" role="menuitem" data-link-event="cta:ADVISORS: EXPLORE MORE TOOLS" aria_label="ADVISORS: EXPLORE MORE TOOLS" target="_blank" class="ds-button-small"> ADVISORS: EXPLORE MORE TOOLS
+<i class="fa fa-chevron-right"></i>
+</a> </div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</ds-responsive-nav-menu-drawer>
+</li>
+</ul>
+<section class="ds-mobile-global-nav-placeholder">
+</section>
+</nav>
+</ds-responsive-nav-menu>
+<ds-drawer class="ds-l2-drawer">
+<div class="ds-drawer-container">
+<div class="container-fluid">
+<div class="row">
+<div class="col ds-col">
+<div class="ds-drawer-content"></div>
+</div>
+</div>
+</div>
+<div class="ds-drawer-full-width-content"></div>
+</div>
+</ds-drawer>
+</div>
+</section>
+<div class="ds-sticky-spacer"></div>
+<ds-search-bar>
+<ds-overlay transparent class="ds-search-overlay"></ds-overlay>
+<ds-drawer class="ds-search-bar-drawer">
+<div class="ds-drawer-container">
+<div class="container-fluid">
+<div class="row">
+<div class="col ds-col">
+<div class="ds-drawer-content">
+<div class="row">
+<div class="col ds-col align-items-end">
+<div class="ds-button ds-search-close-button" type="transparent" compact no-min-width>
+<div class="ds-button-container ds-body-m-bold">
+<button type="button">
+<span class="ds-search-close-label">CLOSE</span> <i class="fa fa-close" aria-hidden="true"></i>
+</button>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-8 ds-col">
+<form class="ds-search-form" autocomplete="off">
+<ds-input appearance="subdued">
+<label class="ds-eyebrow-m" for="ds-input-search">SEARCH</label>
+<div class="ds-helper-text ds-body-s">Enter ticker or keyword to search site</div>
+<input type="text" id="ds-input-search" name="search" value="">
+<div class="ds-button ds-inline-icon" type="transparent" compact>
+<div class="ds-button-container">
+<button>
+<span class="ds-inline-icon-text">CLEAR</span>
+<span class="fas fa-trash"></span>
+</button>
+</div>
+</div>
+</ds-input>
+<div class="ds-button ds-search-button" type="contained" color="blue" compact>
+<div class="ds-button-container">
+<a href="#" id="ds-search-submit" aria-label="submit search" data-link-event="cta:submit search" mode="_blank">
+<span class="ds-search-button-label">SEARCH</span>
+<i class="fa fa-search"></i>
+</a>
+</div>
+</div>
+</form>
+<form id="searchForm" action="/us/search/summary-results" class="siteSearch" role="search">
+<input type="hidden" id="generalAutocompleteUrl" value="/us/search/general-results" />
+<input type="hidden" id="glsDocumentsUrl" value="/us/library" />
+<input type="hidden" id="videoSearchUrl" value="/us/document/literature/holdings/ishigib-etf-early-holdings.csv" />
+<input type="hidden" id="productAutocompleteUrl" value="/us/search/products-results" />
+<input type="hidden" id="summaryAutocompleteUrl" value="/us/search/summary-results" class="summaryAutocompleteUrl" />
+<input type="hidden" id="featuredSearchUrl" value="/us/search/summary-results" />
+<input type="hidden" id="unifiedAutocomplete" value="true" class="unifiedAutocomplete" />
+<input type="hidden" id="autocompleteUrl" value="/us/autoComplete.search?type=autocomplete" />
+<input type="hidden" id="generalAutocompleteTitle" value="General Results" />
+<input type="hidden" id="glsDocumentsTitle" value="GLS Results" />
+<input type="hidden" id="videoSearchTitle" value="Video Results" />
+<input type="hidden" id="productAutocompleteTitle" value="Products" />
+<input type="hidden" id="summaryAutocompleteTitle" value="See All Search Results" class="summaryAutocompleteTitle" />
+<input type="hidden" id="featuredSearchTitle" value="Featured Results" />
+<input type="hidden" id="seeAll" class="seeAll" value="See All" />
+</form>
+</div>
+</div>
+<hr class="ds-divider-4 ds-loading-animation">
+<hr class="ds-divider-3">
+<div class="row">
+<div class="ds-col col-lg-10 col-xl-9 ds-search-results-container">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</ds-drawer>
+</ds-search-bar>
+<ds-alert-bar class="container-fluid">
+<div class="row">
+<div class="ds-col">
+<div class="ds-alert-label-container">
+<i class="fa fa-info-circle" aria-hidden="true"></i>
+<a href="/us/insights/ishares-2022-outlook-and-etf-investment-guide" mode="_self" aria-label="Read the iShares 2022 outlook and ETF investment guide." class="ds-link-subdued-secondary ds-body-m-bold ds-alert-link"> Read the iShares 2022 outlook and ETF investment guide.
+</a> </div>
+<div class="ds-button ds-alert-close" type="transparent" compact no-min-width>
+<div class="ds-button-container ds-body-m-bold">
+<a tabindex="0">
+<span class="ds-alert-close-label">
+CLOSE </span>
+<i class="fa fa-close" aria-hidden="true"></i>
+</a>
+</div>
+</div>
+</div>
+</div>
+</ds-alert-bar>
+</ds-primary-nav>
+</section>
+</div></div>
+</div>
+<div class="ls-cmp-wrap"  id="w1596106245932" >
+<div class="iw_component"  id="c1596106245932" >
+
+<!-- COMPONENT: Content/Application Container -->
+<div data-componentName="Application Container" data-tracked-name="ipx-compare:DigitalWealthWebCompareComponentBasket">
+<div class="editorWrapper" data-dcr="globalDCR">
+</div>
+<input type="hidden" class="dcr-data" value = "{&quot;SHARE_COPY_LINK_NOTIFICATION&quot;:&quot;Link copied to clipboard&quot;,&quot;PRODUCT_COMPARE_TOOL_PAGE_RELATIVE&quot;:&quot;../compare-funds&quot;,&quot;DOWNLOAD_XLS_ICON&quot;:&quot;fas fa-file-excel&quot;,&quot;DOWNLOAD_BUTTON_ICON&quot;:&quot;fas fa-arrow-to-bottom&quot;,&quot;ARIA_LABEL_SEARCH_INPUT&quot;:&quot;Search for funds to compare them.&quot;,&quot;ps_maximum_funds&quot;:&quot;You can only compare up to four funds. Please remove one.&quot;,&quot;pdf_keyword_etf&quot;:&quot;ETF&quot;,&quot;ps_totalFundsText&quot;:&quot; Showing {{total}} results&quot;,&quot;ps_fund_added&quot;:&quot;Fund Added&quot;,&quot;ARIA_LABEL_ADD_ANOTHER_FUND&quot;:&quot;Add another fund to the comparison&quot;,&quot;ADD_TO_COMPARE&quot;:&quot;Add to Compare&quot;,&quot;AS_OF_DATE_FORMAT&quot;:&quot;MMM d, y&quot;,&quot;BASKET_BUTTON_TEXT&quot;:&quot;Compare&quot;,&quot;PERSISTENT_MSG&quot;:&quot;The iShares ETFs that you select may represent different asset classes and/or objectives. Results may not reflect a complete comparison.&quot;,&quot;NO_RESULTS&quot;:&quot;No results, Try another keyword, ticker or fund name.&quot;,&quot;pdf_definitions_title&quot;:&quot;DEFINITIONS&quot;,&quot;MAXIMUM&quot;:&quot;You can only compare up to four funds. Please remove one.&quot;,&quot;ARIA_LABEL_ROWS&quot;:&quot; rows&quot;,&quot;MSCI_ESG_Rating_INFO&quot;:&quot;&lt;p&gt;The MSCI ESG Rating is calculated as a direct mapping of ESG Quality Scores to letter rating categories (e.g. AAA = 8.6-10). The ESG Ratings range from leader (AAA, AA), average (A, BBB, BB) to laggard (B, CCC).&lt;/p&gt;&quot;,&quot;SHARE_COPY_LINK&quot;:&quot;Copy link&quot;,&quot;toggle_off&quot;:&quot;off&quot;,&quot;CLOSE_DRAWER&quot;:&quot;Close&quot;,&quot;FUND_CARD_PLACEHOLDER&quot;:&quot; {{index}} of {{maxNumberOfFunds}}&quot;,&quot;SCREENER_DCR_PATH&quot;:&quot;/templatedata/config/product-screener-v3/data/en/us-ishares/compare-tool-screener&quot;,&quot;SHARE_EMAIL_BODY&quot;:&quot; Here’s a comparison of iShares funds I wanted to share with you:%0D%0A{{compareFundsUrl}}&quot;,&quot;ARIA_LABEL_SHARE_SEND_EMAIL_NOTIFICATION&quot;:&quot;A new email will open shortly&quot;,&quot;ARIA_LABEL_NO_DATA&quot;:&quot;Data is not available or ready&quot;,&quot;pdf_author&quot;:&quot;BlackRock - iShares.com&quot;,&quot;PRODUCT_COMPARE_TOOL_PAGE_PATH&quot;:&quot;products/compare-funds&quot;,&quot;ARIA_LABEL_REMOVE_FUND&quot;:&quot;remove this fund&quot;,&quot;ps_ishares_goToCompare&quot;:&quot;Go to Compare&quot;,&quot;esg_sustainable_label&quot;:&quot;sustainable option&quot;,&quot;FEATURE_DOWNLOAD&quot;:&quot;DISABLED&quot;,&quot;CARBON_INTENSITY_INFO&quot;:&quot;\n (Tons CO2E/$M SALES)&lt;br&gt;\n The MSCI Weighted Average Carbon Intensity measures a fund&apos;s exposure to carbon intensive companies. This figure represents the estimated greenhouse gas emissions per $1 million in sales across the fund’s holdings. The figure is a sum of the normalized security weight multiplied by the security Carbon Intensity. This allows for comparisons between funds of different sizes.\n \n &quot;,&quot;DUPLICATE&quot;:&quot;You have already added this fund.&quot;,&quot;search_config&quot;:&quot;\n {\n \&quot;searchSettings\&quot;: {\n \&quot;productType\&quot;: \&quot;ishares\&quot;\n }\n }\n &quot;,&quot;esg_empty_dont_have_basket_alts&quot;:&quot; Sustainable option(s) will be available as defined in our &lt;a class=&apos;esg-toggle-text&apos; href=&apos;https://www.ishares.com/us/products/methodology-for-sustainable-options&apos; target=&apos;_blank&apos;&gt;methodology&lt;/a&gt;. &quot;,&quot;ARIA_LABEL_SHARE_COPY_LINK_NOTIFICATION&quot;:&quot;Your link has been copied to the clipboard.&quot;,&quot;REMOVE&quot;:&quot;Remove&quot;,&quot;WELCOME_DESCRIPTION&quot;:&quot;Compare iShares ETFs side by side&quot;,&quot;WELCOME_HEADER&quot;:&quot;COMPARE ETFs&quot;,&quot;ARIA_LABEL_RESULTS&quot;:&quot; results.&quot;,&quot;ARIA_LABEL_FUND_NUMBER_ADDED&quot;:&quot; Fund {{currentBasketItemNumber}} of 4 added&quot;,&quot;SHARE_EMAIL_SUBJECT&quot;:&quot;This could be interesting for you: iShares funds comparison&quot;,&quot;esg_tooltip&quot;:&quot; The Sustainable Options function displays sustainable iShares funds that could be considered comparable to the fund selected. To learn how we define the funds shown as sustainable options, read our &lt;a class=&apos;tooltip-url&apos; href=&apos;https://www.ishares.com/us/products/methodology-for-sustainable-options&apos; target=&apos;_blank&apos;&gt;methodology page&lt;/a&gt;.&quot;,&quot;pdf_page_size&quot;:&quot;LETTER&quot;,&quot;REMOVE_CONFIRM&quot;:&quot;Do you really want to Remove All Funds?&quot;,&quot;ARIA_HIDDEN_EMPTY_SIGN&quot;:&quot;-&quot;,&quot;FEATURE_ESG_ALTERNATIVES&quot;:&quot;ENABLED&quot;,&quot;SEARCH_FIELD_PLACEHOLDER&quot;:&quot;Search keyword, ticker or fund name&quot;,&quot;ARIA_LABEL_AS_OF&quot;:&quot;as of&quot;,&quot;ARIA_LABEL_FUND_ADDED&quot;:&quot; Fund added to column {{N}}&quot;,&quot;ARIA_LABEL_NOTICE&quot;:&quot;Notice:&quot;,&quot;CANCEL&quot;:&quot;Cancel&quot;,&quot;ARIA_LABEL_DISCLAIMER&quot;:&quot;Disclaimer&quot;,&quot;ADD_FUND&quot;:&quot;Add Fund&quot;,&quot;table_config&quot;:&quot;\n [\n {\n \&quot;sectionId\&quot;: \&quot;overview\&quot;,\n \&quot;text\&quot;: \&quot;Overview\&quot;\n },\n {\n \&quot;dataPoints\&quot;: [\&quot;fundHeader.custom-metadata.assetClass\&quot;, \&quot;fundHeader.fundName.assetClass\&quot;],\n \&quot;text\&quot;: \&quot;Asset Class\&quot;,\n \&quot;section\&quot;: \&quot;overview\&quot;\n },\n {\n \&quot;dataPoints\&quot;: [\&quot;fundHeader.custom-metadata.subAssetClass\&quot;],\n \&quot;text\&quot;: \&quot;Sub Asset Class\&quot;,\n \&quot;section\&quot;: \&quot;overview\&quot;\n },\n {\n \&quot;dataPoints\&quot;: [\&quot;fundHeader.custom-content.fund_objective.1\&quot;],\n \&quot;text\&quot;: \&quot;Investment Objective\&quot;,\n \&quot;style\&quot;: \&quot;inv-objective\&quot;,\n \&quot;section\&quot;: \&quot;overview\&quot;\n },\n {\n \&quot;dataPoints\&quot;: [\&quot;keyFundFacts.default.indexSeriesName\&quot;, \&quot;fundHeader.custom-metadata.indexSeriesName\&quot;],\n \&quot;text\&quot;: \&quot;Benchmark Index\&quot;,\n \&quot;section\&quot;: \&quot;overview\&quot;\n },\n {\n \&quot;id\&quot;: \&quot;keyFundFacts.default.totalNetAssets.asOfDate\&quot;,\n \&quot;dataPoints\&quot;: [\&quot;keyFundFacts.default.totalNetAssets.asOfDate\&quot;],\n \&quot;text\&quot;: \&quot;As of\&quot;,\n \&quot;section\&quot;: \&quot;overview\&quot;\n },\n {\n \&quot;dataPoints\&quot;: [\&quot;fundHeader.custom-metadata.productCurrencySymbol\&quot;],\n \&quot;jointSeparator\&quot;: \&quot;\&quot;,\n \&quot;jointDataPoints\&quot;: [\&quot;keyFundFacts.default.totalNetAssets\&quot;],\n \&quot;text\&quot;: \&quot;Net Assets\&quot;,\n \&quot;style\&quot;: \&quot;as-of-date\&quot;,\n \&quot;section\&quot;: \&quot;overview\&quot;,\n \&quot;asOfDate\&quot;: \&quot;keyFundFacts.default.totalNetAssets.asOfDate\&quot;\n },\n {\n \&quot;id\&quot;: \&quot;currentProspectus.asOfDate\&quot;,\n \&quot;constant\&quot;: \&quot;Current Prospectus\&quot;,\n \&quot;text\&quot;: \&quot;As of\&quot;,\n \&quot;section\&quot;: \&quot;overview\&quot;\n },\n {\n \&quot;dataPoints\&quot;: [\&quot;fundHeader.fees.expr\&quot;],\n \&quot;endSymbol\&quot;: \&quot;%\&quot;,\n \&quot;text\&quot;: \&quot;Gross Expense Ratio\&quot;,\n \&quot;style\&quot;: \&quot;current-prospectus\&quot;,\n \&quot;section\&quot;: \&quot;overview\&quot;,\n \&quot;asOfDate\&quot;: \&quot;currentProspectus.asOfDate\&quot;\n },\n {\n \&quot;dataPoints\&quot;: [\&quot;fundHeader.fees.netr\&quot;, \&quot;fundHeader.fees.expr\&quot;],\n \&quot;endSymbol\&quot;: \&quot;%\&quot;,\n \&quot;text\&quot;: \&quot;Net Expense Ratio\&quot;,\n \&quot;style\&quot;: \&quot;current-prospectus\&quot;,\n \&quot;section\&quot;: \&quot;overview\&quot;,\n \&quot;asOfDate\&quot;: \&quot;currentProspectus.asOfDate\&quot;,\n \&quot;infoBubbleParams\&quot;: [\&quot;fundHeader.fees.expirationDate\&quot;],\n \&quot;infoBubblePosition\&quot;: \&quot;fundBased\&quot;\n },\n {\n \&quot;sectionId\&quot;: \&quot;trading\&quot;,\n \&quot;text\&quot;: \&quot;Trading\&quot;\n },\n {\n \&quot;id\&quot;: \&quot;fundHeader.fundNav.navAmount.asOfDate\&quot;,\n \&quot;dataPoints\&quot;: [\&quot;fundHeader.fundNav.navAmount.asOfDate\&quot;],\n \&quot;text\&quot;: \&quot;As of\&quot;,\n \&quot;section\&quot;: \&quot;trading\&quot;\n },\n {\n \&quot;dataPoints\&quot;: [\&quot;fundHeader.custom-metadata.productCurrencySymbol\&quot;],\n \&quot;jointSeparator\&quot;: \&quot;\&quot;,\n \&quot;jointDataPoints\&quot;: [\&quot;fundHeader.fundNav.navAmount\&quot;],\n \&quot;text\&quot;: \&quot;NAV\&quot;,\n \&quot;style\&quot;: \&quot;as-of-date\&quot;,\n \&quot;section\&quot;: \&quot;trading\&quot;,\n \&quot;asOfDate\&quot;: \&quot;fundHeader.fundNav.navAmount.asOfDate\&quot;\n },\n {\n \&quot;dataPoints\&quot;: [\&quot;fundHeader.fundNav.yearToDateCalc\&quot;],\n \&quot;text\&quot;: \&quot;YTD NAV return\&quot;,\n \&quot;style\&quot;: \&quot;as-of-date\&quot;,\n \&quot;section\&quot;: \&quot;trading\&quot;,\n \&quot;asOfDate\&quot;: \&quot;fundHeader.fundNav.navAmount.asOfDate\&quot;\n },\n {\n \&quot;dataPoints\&quot;: [\&quot;keyFundFacts.default.thirtyDayAverageVolume\&quot;],\n \&quot;text\&quot;: \&quot;30 Day Avg Volume\&quot;,\n \&quot;style\&quot;: \&quot;as-of-date\&quot;,\n \&quot;section\&quot;: \&quot;trading\&quot;,\n \&quot;asOfDate\&quot;: \&quot;fundHeader.fundNav.navAmount.asOfDate\&quot;\n },\n {\n \&quot;sectionId\&quot;: \&quot;portfolioCharacteristics\&quot;,\n \&quot;text\&quot;: \&quot;Portfolio Characteristics\&quot;\n },\n {\n \&quot;id\&quot;: \&quot;portfolioCharacteristics.asOfDate\&quot;,\n \&quot;dataPoints\&quot;: [\n \&quot;fundamentalsAndRisk.default.thirtyDaySecYield.asOfDate\&quot;,\n \&quot;fundamentalsAndRisk.default.unsubsidizedYield.asOfDate\&quot;,\n \&quot;fundamentalsAndRisk.default.twelveMonTrlYld.asOfDate\&quot;\n ],\n \&quot;text\&quot;: \&quot;As of\&quot;,\n \&quot;section\&quot;: \&quot;portfolioCharacteristics\&quot;\n },\n {\n \&quot;dataPoints\&quot;: [\&quot;fundamentalsAndRisk.default.thirtyDaySecYield\&quot;],\n \&quot;text\&quot;: \&quot;30 Day SEC Yield\&quot;,\n \&quot;style\&quot;: \&quot;as-of-date\&quot;,\n \&quot;asOfDate\&quot;: \&quot;portfolioCharacteristics.asOfDate\&quot;,\n \&quot;section\&quot;: \&quot;portfolioCharacteristics\&quot;\n },\n {\n \&quot;dataPoints\&quot;: [\&quot;fundamentalsAndRisk.default.unsubsidizedYield\&quot;],\n \&quot;text\&quot;: \&quot;30 Day Unsubsidized SEC Yield\&quot;,\n \&quot;style\&quot;: \&quot;as-of-date\&quot;,\n \&quot;asOfDate\&quot;: \&quot;portfolioCharacteristics.asOfDate\&quot;,\n \&quot;section\&quot;: \&quot;portfolioCharacteristics\&quot;\n },\n {\n \&quot;dataPoints\&quot;: [\&quot;fundamentalsAndRisk.default.twelveMonTrlYld\&quot;],\n \&quot;text\&quot;: \&quot;12m Trailing Yield\&quot;,\n \&quot;style\&quot;: \&quot;as-of-date\&quot;,\n \&quot;asOfDate\&quot;: \&quot;portfolioCharacteristics.asOfDate\&quot;,\n \&quot;section\&quot;: \&quot;portfolioCharacteristics\&quot;\n },\n {\n \&quot;id\&quot;: \&quot;fundamentalsAndRisk.default.standardDeviation3Yr.asOfDate\&quot;,\n \&quot;dataPoints\&quot;: [\&quot;fundamentalsAndRisk.default.standardDeviation3Yr.asOfDate\&quot;],\n \&quot;text\&quot;: \&quot;As of\&quot;,\n \&quot;section\&quot;: \&quot;portfolioCharacteristics\&quot;\n },\n {\n \&quot;dataPoints\&quot;: [\&quot;fundamentalsAndRisk.default.beta3Yr\&quot;],\n \&quot;text\&quot;: \&quot;Equity Beta (3Y)\&quot;,\n \&quot;style\&quot;: \&quot;as-of-date\&quot;,\n \&quot;section\&quot;: \&quot;portfolioCharacteristics\&quot;,\n \&quot;asOfDate\&quot;: \&quot;fundamentalsAndRisk.default.standardDeviation3Yr.asOfDate\&quot;\n },\n {\n \&quot;dataPoints\&quot;: [\&quot;fundamentalsAndRisk.default.standardDeviation3Yr\&quot;],\n \&quot;text\&quot;: \&quot;Standard Deviation (3Y)\&quot;,\n \&quot;style\&quot;: \&quot;as-of-date\&quot;,\n \&quot;section\&quot;: \&quot;portfolioCharacteristics\&quot;,\n \&quot;asOfDate\&quot;: \&quot;fundamentalsAndRisk.default.standardDeviation3Yr.asOfDate\&quot;\n },\n {\n \&quot;sectionId\&quot;: \&quot;equityPortfolioCharacteristics\&quot;,\n \&quot;text\&quot;: \&quot;Equity Portfolio Characteristics\&quot;\n },\n {\n \&quot;id\&quot;: \&quot;equity.asOfDate\&quot;,\n \&quot;dataPoints\&quot;: [\n \&quot;fundamentalsAndRisk.default.priceEarnings.asOfDate\&quot;,\n \&quot;fundamentalsAndRisk.default.priceBook.asOfDate\&quot;\n ],\n \&quot;text\&quot;: \&quot;As of\&quot;,\n \&quot;section\&quot;: \&quot;equityPortfolioCharacteristics\&quot;\n },\n {\n \&quot;dataPoints\&quot;: [\&quot;fundamentalsAndRisk.default.priceEarnings\&quot;],\n \&quot;text\&quot;: \&quot;P/E\&quot;,\n \&quot;style\&quot;: \&quot;as-of-date\&quot;,\n \&quot;section\&quot;: \&quot;equityPortfolioCharacteristics\&quot;,\n \&quot;asOfDate\&quot;: \&quot;equity.asOfDate\&quot;\n },\n {\n \&quot;dataPoints\&quot;: [\&quot;fundamentalsAndRisk.default.priceBook\&quot;],\n \&quot;text\&quot;: \&quot;P/B\&quot;,\n \&quot;style\&quot;: \&quot;as-of-date\&quot;,\n \&quot;section\&quot;: \&quot;equityPortfolioCharacteristics\&quot;,\n \&quot;asOfDate\&quot;: \&quot;equity.asOfDate\&quot;\n },\n {\n \&quot;sectionId\&quot;: \&quot;fixedIncomePortfolioCharacteristics\&quot;,\n \&quot;text\&quot;: \&quot;Fixed Income Portfolio Characteristics\&quot;\n },\n {\n \&quot;id\&quot;: \&quot;fixedIncome.asOfDate\&quot;,\n \&quot;dataPoints\&quot;: [\n \&quot;fundamentalsAndRisk.default.yieldToWorst.asOfDate\&quot;,\n \&quot;fundamentalsAndRisk.default.weightedAvgYieldToMaturityInfl.asOfDate\&quot;\n ],\n \&quot;text\&quot;: \&quot;As of\&quot;,\n \&quot;section\&quot;: \&quot;fixedIncomePortfolioCharacteristics\&quot;\n },\n {\n \&quot;dataPoints\&quot;: [\n \&quot;fundamentalsAndRisk.default.yieldToWorst\&quot;,\n \&quot;fundamentalsAndRisk.default.weightedAvgYieldToMaturityInfl\&quot;\n ],\n \&quot;text\&quot;: \&quot;Average Yield\&quot;,\n \&quot;style\&quot;: \&quot;as-of-date\&quot;,\n \&quot;section\&quot;: \&quot;fixedIncomePortfolioCharacteristics\&quot;,\n \&quot;asOfDate\&quot;: \&quot;fixedIncome.asOfDate\&quot;\n },\n {\n \&quot;dataPoints\&quot;: [\n \&quot;fundamentalsAndRisk.default.modelOad\&quot;,\n \&quot;fundamentalsAndRisk.default.cleanDuration\&quot;,\n \&quot;fundamentalsAndRisk.default.effectiveDuration\&quot;\n ],\n \&quot;text\&quot;: \&quot;Effective Duration\&quot;,\n \&quot;style\&quot;: \&quot;as-of-date\&quot;,\n \&quot;section\&quot;: \&quot;fixedIncomePortfolioCharacteristics\&quot;,\n \&quot;asOfDate\&quot;: \&quot;fixedIncome.asOfDate\&quot;\n },\n {\n \&quot;dataPoints\&quot;: [\&quot;fundamentalsAndRisk.default.weightedAvgCoupon\&quot;],\n \&quot;text\&quot;: \&quot;Weighted Average Coupon\&quot;,\n \&quot;style\&quot;: \&quot;as-of-date\&quot;,\n \&quot;section\&quot;: \&quot;fixedIncomePortfolioCharacteristics\&quot;,\n \&quot;asOfDate\&quot;: \&quot;fixedIncome.asOfDate\&quot;\n },\n {\n \&quot;dataPoints\&quot;: [\&quot;fundamentalsAndRisk.default.weightedAvgLife\&quot;],\n \&quot;text\&quot;: \&quot;Weighted Average Maturity\&quot;,\n \&quot;style\&quot;: \&quot;as-of-date\&quot;,\n \&quot;section\&quot;: \&quot;fixedIncomePortfolioCharacteristics\&quot;,\n \&quot;asOfDate\&quot;: \&quot;fixedIncome.asOfDate\&quot;\n },\n {\n \&quot;dataPoints\&quot;: [\&quot;fundamentalsAndRisk.default.optionAdjustedSpread\&quot;],\n \&quot;text\&quot;: \&quot;Option Adjusted Spread\&quot;,\n \&quot;style\&quot;: \&quot;as-of-date\&quot;,\n \&quot;section\&quot;: \&quot;fixedIncomePortfolioCharacteristics\&quot;,\n \&quot;asOfDate\&quot;: \&quot;fixedIncome.asOfDate\&quot;\n },\n {\n \&quot;sectionId\&quot;: \&quot;sustainabilityCharacteristics\&quot;,\n \&quot;text\&quot;: \&quot;Sustainability Characteristics (MSCI ESG Fund Ratings)\&quot;\n },\n {\n \&quot;id\&quot;: \&quot;esg.asOfDate\&quot;,\n \&quot;dataPoints\&quot;: [\n \&quot;esgAnalytics.default.emeaEsgRating.asOfDate\&quot;,\n \&quot;esgAlternatives.default.emeaEsgRating.asOfDate\&quot;,\n \&quot;esgAnalytics.default.emeaEsgQualityScore.asOfDate\&quot;,\n \&quot;esgAlternatives.default.emeaEsgQualityScore.asOfDate\&quot;,\n \&quot;esgAnalytics.default.emeaWeightedAverageCarbon.asOfDate\&quot;,\n \&quot;esgAlternatives.default.emeaWeightedAverageCarbon.asOfDate\&quot;,\n \&quot;esgAnalytics.default.emeaEsgCoverage.asOfDate\&quot;,\n \&quot;esgAlternatives.default.emeaEsgCoverage.asOfDate\&quot;\n ],\n \&quot;jointSeparator\&quot;: \&quot;&lt;br/&gt; (\&quot;,\n \&quot;jointDataPoints\&quot;: [\&quot;esgAnalytics.default.emeaHoldingsDate\&quot;, \&quot;esgAlternatives.default.emeaHoldingsDate\&quot;],\n \&quot;endSymbol\&quot;: \&quot;)\&quot;,\n \&quot;text\&quot;: \&quot;As of (based on holdings as of)\&quot;,\n \&quot;section\&quot;: \&quot;sustainabilityCharacteristics\&quot;\n },\n {\n \&quot;dataPoints\&quot;: [\&quot;esgAnalytics.default.emeaEsgRating\&quot;, \&quot;esgAlternatives.default.emeaEsgRating\&quot;],\n \&quot;text\&quot;: \&quot;MSCI ESG Rating\&quot;,\n \&quot;overrideInfoBubble\&quot;: \&quot;MSCI_ESG_Rating_INFO\&quot;,\n \&quot;style\&quot;: \&quot;as-of-date\&quot;,\n \&quot;section\&quot;: \&quot;sustainabilityCharacteristics\&quot;,\n \&quot;asOfDate\&quot;: \&quot;esg.asOfDate\&quot;\n },\n {\n \&quot;dataPoints\&quot;: [\&quot;esgAnalytics.default.emeaEsgQualityScore\&quot;, \&quot;esgAlternatives.default.emeaEsgQualityScore\&quot;],\n \&quot;text\&quot;: \&quot;MSCI ESG Quality Score\&quot;,\n \&quot;overrideInfoBubble\&quot;: \&quot;MSCI_ESG_Quality_Score_INFO\&quot;,\n \&quot;style\&quot;: \&quot;as-of-date\&quot;,\n \&quot;section\&quot;: \&quot;sustainabilityCharacteristics\&quot;,\n \&quot;asOfDate\&quot;: \&quot;esg.asOfDate\&quot;\n },\n {\n \&quot;dataPoints\&quot;: [\&quot;esgAnalytics.default.emeaEsgCoverage\&quot;, \&quot;esgAlternatives.default.emeaEsgCoverage\&quot;],\n \&quot;text\&quot;: \&quot;MSCI ESG Coverage (%)\&quot;,\n \&quot;overrideInfoBubble\&quot;: \&quot;MSCI_ESG_Coverage_INFO\&quot;,\n \&quot;style\&quot;: \&quot;as-of-date\&quot;,\n \&quot;section\&quot;: \&quot;sustainabilityCharacteristics\&quot;,\n \&quot;asOfDate\&quot;: \&quot;esg.asOfDate\&quot;\n },\n {\n \&quot;dataPoints\&quot;: [\&quot;esgAnalytics.default.emeaWeightedAverageCarbon\&quot;, \&quot;esgAlternatives.default.emeaWeightedAverageCarbon\&quot;],\n \&quot;text\&quot;: \&quot;MSCI Carbon Intensity\&quot;,\n \&quot;overrideInfoBubble\&quot;: \&quot;MSCI_Carbon_Intensity_INFO\&quot;,\n \&quot;style\&quot;: \&quot;as-of-date\&quot;,\n \&quot;section\&quot;: \&quot;sustainabilityCharacteristics\&quot;,\n \&quot;asOfDate\&quot;: \&quot;esg.asOfDate\&quot;\n },\n {\n \&quot;sectionId\&quot;: \&quot;ratings\&quot;,\n \&quot;text\&quot;: \&quot;Credit Quality Breakdown\&quot;\n },\n {\n \&quot;id\&quot;: \&quot;exposureBreakdowns.rating.asOf\&quot;,\n \&quot;dataPoints\&quot;: [\&quot;exposureBreakdowns.rating.asOf\&quot;],\n \&quot;text\&quot;: \&quot;As of\&quot;,\n \&quot;section\&quot;: \&quot;ratings\&quot;\n },\n {\n \&quot;dataPoints\&quot;: [\n \&quot;exposureBreakdowns.rating.fund.AAA or above\&quot;,\n \&quot;exposureBreakdowns.rating.fund.AAA Rated\&quot;,\n \&quot;exposureBreakdowns.rating.fund.AAA\&quot;\n ],\n \&quot;endSymbol\&quot;: \&quot;%\&quot;,\n \&quot;text\&quot;: \&quot;AAA Rated or Above\&quot;,\n \&quot;style\&quot;: \&quot;as-of-date\&quot;,\n \&quot;section\&quot;: \&quot;ratings\&quot;,\n \&quot;asOfDate\&quot;: \&quot;exposureBreakdowns.rating.asOf\&quot;\n },\n {\n \&quot;dataPoints\&quot;: [\n \&quot;exposureBreakdowns.rating.fund.AA Rated\&quot;,\n \&quot;exposureBreakdowns.rating.fund.AA rated\&quot;,\n \&quot;exposureBreakdowns.rating.fund.AA\&quot;\n ],\n \&quot;endSymbol\&quot;: \&quot;%\&quot;,\n \&quot;text\&quot;: \&quot;AA Rated\&quot;,\n \&quot;style\&quot;: \&quot;as-of-date\&quot;,\n \&quot;section\&quot;: \&quot;ratings\&quot;,\n \&quot;asOfDate\&quot;: \&quot;exposureBreakdowns.rating.asOf\&quot;\n },\n {\n \&quot;dataPoints\&quot;: [\&quot;exposureBreakdowns.rating.fund.A Rated\&quot;, \&quot;exposureBreakdowns.rating.fund.A\&quot;],\n \&quot;endSymbol\&quot;: \&quot;%\&quot;,\n \&quot;text\&quot;: \&quot;A Rated\&quot;,\n \&quot;style\&quot;: \&quot;as-of-date\&quot;,\n \&quot;section\&quot;: \&quot;ratings\&quot;,\n \&quot;asOfDate\&quot;: \&quot;exposureBreakdowns.rating.asOf\&quot;\n },\n {\n \&quot;dataPoints\&quot;: [\&quot;exposureBreakdowns.rating.fund.BBB Rated\&quot;, \&quot;exposureBreakdowns.rating.fund.BBB\&quot;],\n \&quot;endSymbol\&quot;: \&quot;%\&quot;,\n \&quot;text\&quot;: \&quot;BBB Rated\&quot;,\n \&quot;style\&quot;: \&quot;as-of-date\&quot;,\n \&quot;section\&quot;: \&quot;ratings\&quot;,\n \&quot;asOfDate\&quot;: \&quot;exposureBreakdowns.rating.asOf\&quot;\n },\n {\n \&quot;dataPoints\&quot;: [\&quot;exposureBreakdowns.rating.fund.BB Rated\&quot;, \&quot;exposureBreakdowns.rating.fund.BB\&quot;],\n \&quot;endSymbol\&quot;: \&quot;%\&quot;,\n \&quot;text\&quot;: \&quot;BB Rated\&quot;,\n \&quot;style\&quot;: \&quot;as-of-date\&quot;,\n \&quot;section\&quot;: \&quot;ratings\&quot;,\n \&quot;asOfDate\&quot;: \&quot;exposureBreakdowns.rating.asOf\&quot;\n },\n {\n \&quot;dataPoints\&quot;: [\&quot;exposureBreakdowns.rating.fund.B Rated\&quot;, \&quot;exposureBreakdowns.rating.fund.B\&quot;],\n \&quot;endSymbol\&quot;: \&quot;%\&quot;,\n \&quot;text\&quot;: \&quot;B Rated\&quot;,\n \&quot;style\&quot;: \&quot;as-of-date\&quot;,\n \&quot;section\&quot;: \&quot;ratings\&quot;,\n \&quot;asOfDate\&quot;: \&quot;exposureBreakdowns.rating.asOf\&quot;\n },\n {\n \&quot;dataPoints\&quot;: [\&quot;exposureBreakdowns.rating.fund.CCC Rated\&quot;, \&quot;exposureBreakdowns.rating.fund.CCC\&quot;],\n \&quot;endSymbol\&quot;: \&quot;%\&quot;,\n \&quot;text\&quot;: \&quot;CCC Rated\&quot;,\n \&quot;style\&quot;: \&quot;as-of-date\&quot;,\n \&quot;section\&quot;: \&quot;ratings\&quot;,\n \&quot;asOfDate\&quot;: \&quot;exposureBreakdowns.rating.asOf\&quot;\n },\n {\n \&quot;dataPoints\&quot;: [\&quot;exposureBreakdowns.rating.fund.CC Rated\&quot;, \&quot;exposureBreakdowns.rating.fund.CC\&quot;],\n \&quot;endSymbol\&quot;: \&quot;%\&quot;,\n \&quot;text\&quot;: \&quot;CC Rated\&quot;,\n \&quot;style\&quot;: \&quot;as-of-date\&quot;,\n \&quot;section\&quot;: \&quot;ratings\&quot;,\n \&quot;asOfDate\&quot;: \&quot;exposureBreakdowns.rating.asOf\&quot;\n },\n {\n \&quot;dataPoints\&quot;: [\&quot;exposureBreakdowns.rating.fund.C Rated\&quot;, \&quot;exposureBreakdowns.rating.fund.C\&quot;],\n \&quot;endSymbol\&quot;: \&quot;%\&quot;,\n \&quot;text\&quot;: \&quot;C Rated\&quot;,\n \&quot;style\&quot;: \&quot;as-of-date\&quot;,\n \&quot;section\&quot;: \&quot;ratings\&quot;,\n \&quot;asOfDate\&quot;: \&quot;exposureBreakdowns.rating.asOf\&quot;\n },\n {\n \&quot;dataPoints\&quot;: [\&quot;exposureBreakdowns.rating.fund.D Rated\&quot;, \&quot;exposureBreakdowns.rating.fund.D\&quot;],\n \&quot;endSymbol\&quot;: \&quot;%\&quot;,\n \&quot;text\&quot;: \&quot;D Rated\&quot;,\n \&quot;style\&quot;: \&quot;as-of-date\&quot;,\n \&quot;section\&quot;: \&quot;ratings\&quot;,\n \&quot;asOfDate\&quot;: \&quot;exposureBreakdowns.rating.asOf\&quot;\n },\n {\n \&quot;dataPoints\&quot;: [\&quot;exposureBreakdowns.rating.fund.Not Rated\&quot;],\n \&quot;endSymbol\&quot;: \&quot;%\&quot;,\n \&quot;text\&quot;: \&quot;Not Rated\&quot;,\n \&quot;style\&quot;: \&quot;as-of-date\&quot;,\n \&quot;section\&quot;: \&quot;ratings\&quot;,\n \&quot;asOfDate\&quot;: \&quot;exposureBreakdowns.rating.asOf\&quot;\n },\n {\n \&quot;dataPoints\&quot;: [\&quot;exposureBreakdowns.rating.fund.Other\&quot;],\n \&quot;endSymbol\&quot;: \&quot;%\&quot;,\n \&quot;text\&quot;: \&quot;Other\&quot;,\n \&quot;style\&quot;: \&quot;as-of-date\&quot;,\n \&quot;section\&quot;: \&quot;ratings\&quot;,\n \&quot;asOfDate\&quot;: \&quot;exposureBreakdowns.rating.asOf\&quot;\n },\n {\n \&quot;dataPoints\&quot;: [\n \&quot;exposureBreakdowns.rating.fund.Cash and/or Derivatives\&quot;,\n \&quot;exposureBreakdowns.rating.fund.Cash &amp; Other\&quot;\n ],\n \&quot;endSymbol\&quot;: \&quot;%\&quot;,\n \&quot;text\&quot;: \&quot;Cash and other\&quot;,\n \&quot;style\&quot;: \&quot;as-of-date\&quot;,\n \&quot;section\&quot;: \&quot;ratings\&quot;,\n \&quot;asOfDate\&quot;: \&quot;exposureBreakdowns.rating.asOf\&quot;\n },\n {\n \&quot;sectionId\&quot;: \&quot;holdings\&quot;,\n \&quot;text\&quot;: \&quot;Top 10 Holdings\&quot;\n },\n {\n \&quot;id\&quot;: \&quot;keyFundFacts.default.numHoldings.asOfDate\&quot;,\n \&quot;dataPoints\&quot;: [\&quot;keyFundFacts.default.numHoldings.asOfDate\&quot;, \&quot;fundamentalsAndRisk.default.numHoldings.asOfDate\&quot;, \&quot;holdings.all.asOfDate\&quot;],\n \&quot;text\&quot;: \&quot;As of\&quot;,\n \&quot;section\&quot;: \&quot;holdings\&quot;\n },\n {\n \&quot;dataPoints\&quot;: [\&quot;fundamentalsAndRisk.default.numHoldings\&quot;, \&quot;keyFundFacts.default.numHoldings\&quot;],\n \&quot;text\&quot;: \&quot;Number of holdings\&quot;,\n \&quot;style\&quot;: \&quot;as-of-date\&quot;,\n \&quot;section\&quot;: \&quot;holdings\&quot;,\n \&quot;asOfDate\&quot;: \&quot;keyFundFacts.default.numHoldings.asOfDate\&quot;\n },\n {\n \&quot;dataPoints\&quot;: [\&quot;holdings.all.issueName.{i}\&quot;],\n \&quot;jointSeparator\&quot;: \&quot;&lt;br/&gt;\&quot;,\n \&quot;jointDataPoints\&quot;: [\&quot;holdings.all.holdingPercent.{i}\&quot;],\n \&quot;endSymbol\&quot;: \&quot;%\&quot;,\n \&quot;text\&quot;: \&quot;{i}\&quot;,\n \&quot;style\&quot;: \&quot;center\&quot;,\n \&quot;section\&quot;: \&quot;holdings\&quot;,\n \&quot;limit\&quot;: 10,\n \&quot;asOfDate\&quot;: \&quot;keyFundFacts.default.numHoldings.asOfDate\&quot;\n },\n {\n \&quot;sectionId\&quot;: \&quot;countries\&quot;,\n \&quot;text\&quot;: \&quot;Geography Breakdown\&quot;\n },\n {\n \&quot;id\&quot;: \&quot;exposureBreakdowns.geography.countries.asOf\&quot;,\n \&quot;dataPoints\&quot;: [\&quot;exposureBreakdowns.geography.countries.asOf\&quot;],\n \&quot;text\&quot;: \&quot;As of\&quot;,\n \&quot;section\&quot;: \&quot;countries\&quot;\n },\n {\n \&quot;dataPoints\&quot;: [\&quot;exposureBreakdowns.geography.countries.type.{i}\&quot;],\n \&quot;jointSeparator\&quot;: \&quot;&lt;br/&gt;\&quot;,\n \&quot;jointDataPoints\&quot;: [\&quot;exposureBreakdowns.geography.countries.fund.{i}\&quot;],\n \&quot;endSymbol\&quot;: \&quot;%\&quot;,\n \&quot;text\&quot;: \&quot;{i}\&quot;,\n \&quot;style\&quot;: \&quot;center\&quot;,\n \&quot;section\&quot;: \&quot;countries\&quot;,\n \&quot;limit\&quot;: 50,\n \&quot;asOfDate\&quot;: \&quot;exposureBreakdowns.geography.countries.asOf\&quot;\n },\n {\n \&quot;sectionId\&quot;: \&quot;sectors\&quot;,\n \&quot;text\&quot;: \&quot;Sector Breakdown\&quot;\n },\n {\n \&quot;id\&quot;: \&quot;exposureBreakdowns.sector.asOf\&quot;,\n \&quot;dataPoints\&quot;: [\&quot;exposureBreakdowns.sector.asOf\&quot;],\n \&quot;text\&quot;: \&quot;As of\&quot;,\n \&quot;section\&quot;: \&quot;sectors\&quot;\n },\n {\n \&quot;dataPoints\&quot;: [\&quot;exposureBreakdowns.sector.type.{i}\&quot;],\n \&quot;jointSeparator\&quot;: \&quot;&lt;br/&gt;\&quot;,\n \&quot;jointDataPoints\&quot;: [\&quot;exposureBreakdowns.sector.fund.{i}\&quot;],\n \&quot;endSymbol\&quot;: \&quot;%\&quot;,\n \&quot;text\&quot;: \&quot;{i}\&quot;,\n \&quot;style\&quot;: \&quot;center\&quot;,\n \&quot;section\&quot;: \&quot;sectors\&quot;,\n \&quot;limit\&quot;: 50,\n \&quot;asOfDate\&quot;: \&quot;exposureBreakdowns.sector.asOf\&quot;\n },\n {\n \&quot;sectionId\&quot;: \&quot;performanceMonthEnd\&quot;,\n \&quot;text\&quot;: \&quot;Performance Month-End\&quot;\n },\n {\n \&quot;id\&quot;: \&quot;performance.returns.average.asOfDate\&quot;,\n \&quot;dataPoints\&quot;: [\&quot;performance.returns.average.asOfDate\&quot;],\n \&quot;text\&quot;: \&quot;As of\&quot;,\n \&quot;section\&quot;: \&quot;performanceMonthEnd\&quot;\n },\n {\n \&quot;dataPoints\&quot;: [\&quot;keyFundFacts.default.inceptionDate\&quot;],\n \&quot;text\&quot;: \&quot;Inception Date\&quot;,\n \&quot;style\&quot;: \&quot;as-of-date\&quot;,\n \&quot;section\&quot;: \&quot;performanceMonthEnd\&quot;,\n \&quot;asOfDate\&quot;: \&quot;performance.returns.average.asOfDate\&quot;\n },\n {\n \&quot;dataPoints\&quot;: [\&quot;performance.returns.cumulative.yearToDate.navSourced\&quot;],\n \&quot;endSymbol\&quot;: \&quot;%\&quot;,\n \&quot;text\&quot;: \&quot;YTD Cumulative NAV Return\&quot;,\n \&quot;style\&quot;: \&quot;as-of-date\&quot;,\n \&quot;section\&quot;: \&quot;performanceMonthEnd\&quot;,\n \&quot;asOfDate\&quot;: \&quot;performance.returns.average.asOfDate\&quot;\n },\n {\n \&quot;dataPoints\&quot;: [\&quot;performance.returns.average.oneYearAnnualized.navSourced\&quot;],\n \&quot;endSymbol\&quot;: \&quot;%\&quot;,\n \&quot;text\&quot;: \&quot;1 Yr Avg Annual NAV Return\&quot;,\n \&quot;style\&quot;: \&quot;as-of-date\&quot;,\n \&quot;section\&quot;: \&quot;performanceMonthEnd\&quot;,\n \&quot;asOfDate\&quot;: \&quot;performance.returns.average.asOfDate\&quot;\n },\n {\n \&quot;dataPoints\&quot;: [\&quot;performance.returns.average.fiveYearAnnualized.navSourced\&quot;],\n \&quot;endSymbol\&quot;: \&quot;%\&quot;,\n \&quot;text\&quot;: \&quot;5 Yr Avg Annual NAV Return\&quot;,\n \&quot;style\&quot;: \&quot;as-of-date\&quot;,\n \&quot;section\&quot;: \&quot;performanceMonthEnd\&quot;,\n \&quot;asOfDate\&quot;: \&quot;performance.returns.average.asOfDate\&quot;\n },\n {\n \&quot;dataPoints\&quot;: [\&quot;performance.returns.average.tenYearAnnualized.navSourced\&quot;],\n \&quot;endSymbol\&quot;: \&quot;%\&quot;,\n \&quot;text\&quot;: \&quot;10 Yr Avg Annual NAV Return\&quot;,\n \&quot;style\&quot;: \&quot;as-of-date\&quot;,\n \&quot;section\&quot;: \&quot;performanceMonthEnd\&quot;,\n \&quot;asOfDate\&quot;: \&quot;performance.returns.average.asOfDate\&quot;\n },\n {\n \&quot;dataPoints\&quot;: [\&quot;performance.returns.average.sinceInceptionAnnualized.navSourced\&quot;],\n \&quot;endSymbol\&quot;: \&quot;%\&quot;,\n \&quot;text\&quot;: \&quot;Incept Avg Annual NAV Return\&quot;,\n \&quot;style\&quot;: \&quot;as-of-date\&quot;,\n \&quot;section\&quot;: \&quot;performanceMonthEnd\&quot;,\n \&quot;asOfDate\&quot;: \&quot;performance.returns.average.asOfDate\&quot;\n },\n {\n \&quot;dataPoints\&quot;: [\&quot;performance.returns.cumulative.yearToDate.marketPrice\&quot;],\n \&quot;endSymbol\&quot;: \&quot;%\&quot;,\n \&quot;text\&quot;: \&quot;YTD Cumulative Price Return\&quot;,\n \&quot;style\&quot;: \&quot;as-of-date\&quot;,\n \&quot;section\&quot;: \&quot;performanceMonthEnd\&quot;,\n \&quot;asOfDate\&quot;: \&quot;performance.returns.average.asOfDate\&quot;\n },\n {\n \&quot;dataPoints\&quot;: [\&quot;performance.returns.average.oneYearAnnualized.marketPrice\&quot;],\n \&quot;endSymbol\&quot;: \&quot;%\&quot;,\n \&quot;text\&quot;: \&quot;1 Yr Avg Annual Price Return\&quot;,\n \&quot;style\&quot;: \&quot;as-of-date\&quot;,\n \&quot;section\&quot;: \&quot;performanceMonthEnd\&quot;,\n \&quot;asOfDate\&quot;: \&quot;performance.returns.average.asOfDate\&quot;\n },\n {\n \&quot;dataPoints\&quot;: [\&quot;performance.returns.average.fiveYearAnnualized.marketPrice\&quot;],\n \&quot;endSymbol\&quot;: \&quot;%\&quot;,\n \&quot;text\&quot;: \&quot;5 Yr Avg Annual Price Return\&quot;,\n \&quot;style\&quot;: \&quot;as-of-date\&quot;,\n \&quot;section\&quot;: \&quot;performanceMonthEnd\&quot;,\n \&quot;asOfDate\&quot;: \&quot;performance.returns.average.asOfDate\&quot;\n },\n {\n \&quot;dataPoints\&quot;: [\&quot;performance.returns.average.tenYearAnnualized.marketPrice\&quot;],\n \&quot;endSymbol\&quot;: \&quot;%\&quot;,\n \&quot;text\&quot;: \&quot;10 Yr Avg Annual Price Return\&quot;,\n \&quot;style\&quot;: \&quot;as-of-date\&quot;,\n \&quot;section\&quot;: \&quot;performanceMonthEnd\&quot;,\n \&quot;asOfDate\&quot;: \&quot;performance.returns.average.asOfDate\&quot;\n },\n {\n \&quot;dataPoints\&quot;: [\&quot;performance.returns.average.sinceInceptionAnnualized.marketPrice\&quot;],\n \&quot;endSymbol\&quot;: \&quot;%\&quot;,\n \&quot;text\&quot;: \&quot;Incept Avg Annual Price Return\&quot;,\n \&quot;style\&quot;: \&quot;as-of-date\&quot;,\n \&quot;section\&quot;: \&quot;performanceMonthEnd\&quot;,\n \&quot;asOfDate\&quot;: \&quot;performance.returns.average.asOfDate\&quot;\n },\n {\n \&quot;sectionId\&quot;: \&quot;performanceQuarterEnd\&quot;,\n \&quot;text\&quot;: \&quot;Performance Quarter-End\&quot;\n },\n {\n \&quot;id\&quot;: \&quot;performance.returns.average.QUARTER_END.asOfDate\&quot;,\n \&quot;dataPoints\&quot;: [\&quot;performance.returns.average.QUARTER_END.asOfDate\&quot;],\n \&quot;text\&quot;: \&quot;As of\&quot;,\n \&quot;section\&quot;: \&quot;performanceQuarterEnd\&quot;\n },\n {\n \&quot;dataPoints\&quot;: [\&quot;keyFundFacts.default.inceptionDate\&quot;],\n \&quot;text\&quot;: \&quot;Inception Date\&quot;,\n \&quot;style\&quot;: \&quot;as-of-date\&quot;,\n \&quot;section\&quot;: \&quot;performanceQuarterEnd\&quot;,\n \&quot;asOfDate\&quot;: \&quot;performance.returns.average.QUARTER_END.asOfDate\&quot;\n },\n {\n \&quot;dataPoints\&quot;: [\&quot;performance.returns.cumulative.QUARTER_END.yearToDate.navSourced\&quot;],\n \&quot;endSymbol\&quot;: \&quot;%\&quot;,\n \&quot;text\&quot;: \&quot;YTD Cumulative NAV Return\&quot;,\n \&quot;style\&quot;: \&quot;as-of-date\&quot;,\n \&quot;section\&quot;: \&quot;performanceQuarterEnd\&quot;,\n \&quot;asOfDate\&quot;: \&quot;performance.returns.average.QUARTER_END.asOfDate\&quot;\n },\n {\n \&quot;dataPoints\&quot;: [\&quot;performance.returns.average.QUARTER_END.oneYearAnnualized.navSourced\&quot;],\n \&quot;endSymbol\&quot;: \&quot;%\&quot;,\n \&quot;text\&quot;: \&quot;1 Yr Avg Annual NAV Return\&quot;,\n \&quot;style\&quot;: \&quot;as-of-date\&quot;,\n \&quot;section\&quot;: \&quot;performanceQuarterEnd\&quot;,\n \&quot;asOfDate\&quot;: \&quot;performance.returns.average.QUARTER_END.asOfDate\&quot;\n },\n {\n \&quot;dataPoints\&quot;: [\&quot;performance.returns.average.QUARTER_END.fiveYearAnnualized.navSourced\&quot;],\n \&quot;endSymbol\&quot;: \&quot;%\&quot;,\n \&quot;text\&quot;: \&quot;5 Yr Avg Annual NAV Return\&quot;,\n \&quot;style\&quot;: \&quot;as-of-date\&quot;,\n \&quot;section\&quot;: \&quot;performanceQuarterEnd\&quot;,\n \&quot;asOfDate\&quot;: \&quot;performance.returns.average.QUARTER_END.asOfDate\&quot;\n },\n {\n \&quot;dataPoints\&quot;: [\&quot;performance.returns.average.QUARTER_END.tenYearAnnualized.navSourced\&quot;],\n \&quot;endSymbol\&quot;: \&quot;%\&quot;,\n \&quot;text\&quot;: \&quot;10 Yr Avg Annual NAV Return\&quot;,\n \&quot;style\&quot;: \&quot;as-of-date\&quot;,\n \&quot;section\&quot;: \&quot;performanceQuarterEnd\&quot;,\n \&quot;asOfDate\&quot;: \&quot;performance.returns.average.QUARTER_END.asOfDate\&quot;\n },\n {\n \&quot;dataPoints\&quot;: [\&quot;performance.returns.average.QUARTER_END.sinceInceptionAnnualized.navSourced\&quot;],\n \&quot;endSymbol\&quot;: \&quot;%\&quot;,\n \&quot;text\&quot;: \&quot;Incept Avg Annual NAV Return\&quot;,\n \&quot;style\&quot;: \&quot;as-of-date\&quot;,\n \&quot;section\&quot;: \&quot;performanceQuarterEnd\&quot;,\n \&quot;asOfDate\&quot;: \&quot;performance.returns.average.QUARTER_END.asOfDate\&quot;\n },\n {\n \&quot;dataPoints\&quot;: [\&quot;performance.returns.cumulative.QUARTER_END.yearToDate.marketPrice\&quot;],\n \&quot;endSymbol\&quot;: \&quot;%\&quot;,\n \&quot;text\&quot;: \&quot;YTD Cumulative Price Return\&quot;,\n \&quot;style\&quot;: \&quot;as-of-date\&quot;,\n \&quot;section\&quot;: \&quot;performanceQuarterEnd\&quot;,\n \&quot;asOfDate\&quot;: \&quot;performance.returns.average.QUARTER_END.asOfDate\&quot;\n },\n {\n \&quot;dataPoints\&quot;: [\&quot;performance.returns.average.QUARTER_END.oneYearAnnualized.marketPrice\&quot;],\n \&quot;endSymbol\&quot;: \&quot;%\&quot;,\n \&quot;text\&quot;: \&quot;1 Yr Avg Annual Price Return\&quot;,\n \&quot;style\&quot;: \&quot;as-of-date\&quot;,\n \&quot;section\&quot;: \&quot;performanceQuarterEnd\&quot;,\n \&quot;asOfDate\&quot;: \&quot;performance.returns.average.QUARTER_END.asOfDate\&quot;\n },\n {\n \&quot;dataPoints\&quot;: [\&quot;performance.returns.average.QUARTER_END.fiveYearAnnualized.marketPrice\&quot;],\n \&quot;endSymbol\&quot;: \&quot;%\&quot;,\n \&quot;text\&quot;: \&quot;5 Yr Avg Annual Price Return\&quot;,\n \&quot;style\&quot;: \&quot;as-of-date\&quot;,\n \&quot;section\&quot;: \&quot;performanceQuarterEnd\&quot;,\n \&quot;asOfDate\&quot;: \&quot;performance.returns.average.QUARTER_END.asOfDate\&quot;\n },\n {\n \&quot;dataPoints\&quot;: [\&quot;performance.returns.average.QUARTER_END.tenYearAnnualized.marketPrice\&quot;],\n \&quot;endSymbol\&quot;: \&quot;%\&quot;,\n \&quot;text\&quot;: \&quot;10 Yr Avg Annual Price Return\&quot;,\n \&quot;style\&quot;: \&quot;as-of-date\&quot;,\n \&quot;section\&quot;: \&quot;performanceQuarterEnd\&quot;,\n \&quot;asOfDate\&quot;: \&quot;performance.returns.average.QUARTER_END.asOfDate\&quot;\n },\n {\n \&quot;dataPoints\&quot;: [\&quot;performance.returns.average.QUARTER_END.sinceInceptionAnnualized.marketPrice\&quot;],\n \&quot;endSymbol\&quot;: \&quot;%\&quot;,\n \&quot;text\&quot;: \&quot;Incept Avg Annual Price Return\&quot;,\n \&quot;style\&quot;: \&quot;as-of-date\&quot;,\n \&quot;section\&quot;: \&quot;performanceQuarterEnd\&quot;,\n \&quot;asOfDate\&quot;: \&quot;performance.returns.average.QUARTER_END.asOfDate\&quot;\n }\n ]\n &quot;,&quot;MSCI_ESG_Quality_Score_INFO&quot;:&quot;&lt;p&gt;The MSCI ESG Quality Score (0 - 10) for funds is calculated using the weighted average of the ESG scores of fund holdings. The Score also considers ESG Rating trend of holdings and the fund exposure to holdings in the laggard category. MSCI rates underlying holdings according to their exposure to industry specific ESG risks and their ability to manage those risks relative to peers.&lt;/p&gt;&quot;,&quot;pdf_keyword_BLK&quot;:&quot;BlackRock&quot;,&quot;ARIA_LABEL_AS_OF_DATE&quot;:&quot; {{asOfDateText}}, applies to {{N}} following rows&quot;,&quot;WELCOME_HEADING&quot;:&quot;Add a fund to start comparing&quot;,&quot;toggle_on&quot;:&quot;on&quot;,&quot;FUND_ADDED&quot;:&quot;Fund Added&quot;,&quot;ARIA_LABEL_ERROR&quot;:&quot;Error:&quot;,&quot;SHARE_COPY_LINK_ICON&quot;:&quot;fas fa-link&quot;,&quot;pdf_page_count_text&quot;:&quot; PAGE {{currentPage}} of {{pageCount}}&quot;,&quot;pdf_title&quot;:&quot;COMPARE FUNDS&quot;,&quot;SHARE_SEND_EMAIL&quot;:&quot;Send link in email&quot;,&quot;SHARE_BUTTON&quot;:&quot;Share&quot;,&quot;ARIA_LABEL_TITLE_TOOLTIP&quot;:&quot;More info&quot;,&quot;pdf_disclaimer&quot;:&quot;\n &lt;strong&gt;The performance quoted represents past performance and does not guarantee future results. Investment return and principal value of an investment will fluctuate so that an investor’s shares, when sold or redeemed, may be worth more or less than the original cost. Current performance may be lower or higher than the performance quoted. Performance data current to the most recent month end may be obtained by visiting the products’ respective overview pages. &lt;/strong&gt; &lt;br/&gt;\n The iShares ETFs that you select may represent different asset classes and/or objectives. Results may not reflect a complete comparison and should not be relied on as a primary basis for an investment decision. Investment comparisons are for illustrative purposes only. To better understand the similarities and differences between investments, including investment objectives, risks, fees and expenses, it is important to read the products’ prospectuses.&lt;br/&gt;\n Credit quality ratings on underlying securities of the fund are received from S&amp;amp;P, Moody’s and Fitch and converted to the equivalent S&amp;P major rating category. This breakdown is provided by BlackRock and takes the median rating of the three agencies when all three agencies rate a security the lower of the two ratings if only two agencies rate a security and one rating if that is all that is provided. Unrated securities do not necessarily indicate low quality. Below investment-grade is represented by a rating of BB and below. Ratings and portfolio credit quality may change over time.&lt;br/&gt;\n The Sustainability Characteristics metrics are based on MSCI ESG Fund Ratings and, unless otherwise stated in fund documentation and included within a fund’s investment objective, do not change a fund’s investment objective or constrain the fund’s investable universe, and there is no indication that an ESG or Impact focused investment strategy or exclusionary screens will be adopted by a fund. For more information regarding a fund’s investment strategy, please see the fund’s prospectus.&lt;br/&gt;\n To be included in MSCI ESG Fund Ratings, 65% of the fund’s gross weight must come from securities covered by MSCI ESG Research (certain cash positions and other asset types deemed not relevant for ESG analysis by MSCI are removed prior to calculating a fund’s gross weight; the absolute values of short positions are included but treated as uncovered), the fund’s holdings date must be less than one year old, and the fund must have at least ten securities. Please refer to the MSCI ESG Fund Ratings Methodology for more information.&lt;br/&gt;\n &quot;,&quot;BASKET_TITLE&quot;:&quot;Compare ETFs&quot;,&quot;esg_show_sustainable_alts&quot;:&quot;show sustainable options&quot;,&quot;SHARE_BUTTON_ICON&quot;:&quot;fas fa-share-alt&quot;,&quot;Basket_Config_JSON&quot;:&quot;\n {\n \&quot;fundCard\&quot;: {\n \&quot;show\&quot;: [\&quot;ticker\&quot;, \&quot;fundName\&quot;, \&quot;active\&quot;, \&quot;assetClass\&quot;]\n },\n \&quot;dataPoints\&quot;: {\n \&quot;productId\&quot;: \&quot;fundHeader.custom-metadata.productId\&quot;,\n \&quot;ticker\&quot;: \&quot;fundHeader.fundTicker.ticker\&quot;,\n \&quot;fundName\&quot;: \&quot;fundHeader.fundName.fundName\&quot;,\n \&quot;active\&quot;: \&quot;fundHeader.custom-metadata.investmentStyle\&quot;,\n \&quot;assetClass\&quot;: \&quot;fundHeader.custom-metadata.assetClass\&quot;,\n \&quot;legalStructure\&quot;: \&quot;fundHeader.custom-metadata.legalStructure\&quot;\n }\n }\n &quot;,&quot;CLOSE_BASKET&quot;:&quot;Close&quot;,&quot;pdf_keyword_iShares&quot;:&quot;iShares&quot;,&quot;pdf_created_text&quot;:&quot; CREATED ON: {{today}}&quot;,&quot;ARIA_LABEL_COMPARE_BASKET&quot;:&quot;Compare basket&quot;,&quot;esg_has_sustainable_alts_cant_compare&quot;:&quot; Sustainable option(s) will be available as defined in our &lt;a class=&apos;esg-toggle-text&apos; href=&apos;https://www.ishares.com/us/products/methodology-for-sustainable-options&apos; target=&apos;_blank&apos;&gt;methodology&lt;/a&gt;. &quot;,&quot;ACTIVE&quot;:&quot;active&quot;,&quot;RESULTS_CLEAR_ALL&quot;:&quot;Remove All&quot;,&quot;MSCI_Carbon_Intensity_INFO&quot;:&quot;&lt;p&gt;The MSCI Weighted Average Carbon Intensity measures a fund&apos;s exposure to carbon intensive companies. This figure represents the estimated greenhouse gas emissions per $1 million in sales across the fund’s holdings. This allows for comparisons between funds of different sizes.&lt;/p&gt;&quot;,&quot;ARIA_LABEL_EMPTY&quot;:&quot;, empty&quot;,&quot;ARIA_LABEL_CLEAR_SEARCH&quot;:&quot;Clear search&quot;,&quot;DOWNLOAD_BUTTON&quot;:&quot;Download&quot;,&quot;BOTTOM_DISCLAIMER&quot;:&quot; &quot;,&quot;ARIA_LABEL_COMPARE_FUNDS&quot;:&quot;Compare funds&quot;,&quot;DOWNLOAD_PDF_ICON&quot;:&quot;fas fa-file-pdf&quot;,&quot;WELCOME_BUTTON&quot;:&quot;Add an ETF to compare&quot;,&quot;MSCI_ESG_Coverage_INFO&quot;:&quot;&lt;p&gt;Percentage of a fund&apos;s holdings that have MSCI ESG ratings data.&lt;/p&gt;&quot;,&quot;DOWNLOAD_PDF&quot;:&quot;Download pdf&quot;,&quot;esg_no_sustainable_alts&quot;:&quot; Sustainable option(s) will be available as defined in our &lt;a class=&apos;esg-toggle-text&apos; href=&apos;https://www.ishares.com/us/products/methodology-for-sustainable-options&apos; target=&apos;_blank&apos;&gt;methodology&lt;/a&gt;. &quot;,&quot;SHARE_SEND_EMAIL_ICON&quot;:&quot;fas fa-envelope&quot;,&quot;esg_sustainable_alts_against&quot;:&quot; The sustainable options for &lt;b&gt;{{toggleTextFundName}} ({{toggleTextTicker}})&lt;/b&gt; are shown above. &quot;,&quot;ARIA_LABEL_ALL_FUNDS_REMOVED&quot;:&quot;All funds have been removed.&quot;,&quot;pdf_subject&quot;:&quot;Comparison of iShares ETFs:&quot;,&quot;esg_search_suggestion_header_tagline&quot;:&quot;Sustainable options for&quot;,&quot;DRAWER_CTA&quot;:&quot;Go to Compare&quot;,&quot;WELCOME_SUBHEADER&quot;:&quot;View up to 4 funds side-by-side&quot;,&quot;DOWNLOAD_XLS&quot;:&quot;Download xls&quot;,&quot;fund_card_config&quot;:&quot;\n {\n \&quot;productId\&quot;: \&quot;fundHeader.custom-metadata.productId\&quot;,\n \&quot;ticker\&quot;: \&quot;fundHeader.fundTicker.ticker\&quot;,\n \&quot;fundName\&quot;: \&quot;fundHeader.fundName.fundName\&quot;,\n \&quot;active\&quot;: \&quot;fundHeader.custom-metadata.investmentStyle\&quot;,\n \&quot;assetClass\&quot;: \&quot;fundHeader.custom-metadata.assetClass\&quot;,\n \&quot;legalStructure\&quot;: \&quot;fundHeader.custom-metadata.legalStructure\&quot;\n }\n &quot;,&quot;esg_has_sustainable_alts_toggle_off&quot;:&quot; Turn on to see up to three sustainable options to compare with &lt;b&gt;{{toggleTextFundName}} ({{toggleTextTicker}})&lt;/b&gt;. &quot;,&quot;ARIA_LABEL_RESULT&quot;:&quot; result.&quot;,&quot;ARIA_LABEL_DOWNLOAD_CLICKED_NOTIFICATION&quot;:&quot;Your file will be downloaded shortly&quot;,&quot;MAX_LENGTH_AUTOCOMPLETE&quot;:&quot;10&quot;,&quot;FUND_ADDED_DESC&quot;:&quot;Your fund is added and ready to go.&quot;,&quot;GO_TO_COMPARE&quot;:&quot;Go to Compare&quot;,&quot;MAXIMUM_DRAWER&quot;:&quot;You can no longer add any more ETF&apos;s to the tray. Please select one of the (4) available ETF&apos;s to replace with the current product.&quot;,&quot;pdf_file_name&quot;:&quot;iShares.com - Compare ETFs&quot;}">
+<digital-wealth-web-compare-basket><div class="app-container-placeholder" style="min-height: 1px;"></div></digital-wealth-web-compare-basket>
+<script nonce="5mKoJPY081Yx7yrjkkK5DQ==">
+//<![CDATA[
+(function(){
+if(typeof BLK === "undefined" || !BLK){
+window.BLK = {};
+}
+BLK["assetPathPrefix"] = "/blk-one-assets/cache-1639671128889/include/app-container/ipx-compare-17d055be7e8";
+BLK["urlMap"] = {"productScreenerV3Api":"https://www.ishares.com/us/product-screener/product-screener-v3.jsn","productPage":"https://www.ishares.com/us/products","cwpScreenerApi":"https://www.ishares.com/us/product-data.jsn","compareToolPage":"https://www.ishares.com/us/products/compare-funds","compareEsgApi":"https://www.ishares.com/us/esg-product-data.jsn"};
+BLK["providedServiceMap"] = {"api-gateway":"https://www.blackrock.com/api-gateway","tools":"https://www.blackrock.com/tools"};
+BLK["appContainerRootPage"] = "/us/error";
+})();
+//]]>
+</script>
+</div></div>
+</div>
+</div>
+</div>
+<div class="ls-row body-background" id="bodyWrapper" role="main">
+<div class="ls-col">
+<div class="ls-row row0" id="siteWrapper">
+<div class="ls-col">
+<div class="ls-row row2">
+<div class="ls-area" id="mainWrapper">
+<div class="ls-cmp-wrap"  id="w1512667840073" >
+<div class="iw_component"  id="c1512667840073" >
+
+<!-- COMPONENT: vi16-content/Errors -->
+<div data-componentName="Errors" class="vi16">
+<div class="error-page" style="background-image:url( /blk-one-assets/cache-1604074322000/images/media-bin/web/ishares/us/photos/ish-photo-iceberg-kayak-1920x350.jpg )">
+<div class="wrapper-980">
+<input type="hidden" id="statusCode" value="404" />
+<header class="row justify-content-center">
+<div class="header-wrapper col-lg-9 col-12">
+<h1>Page unavailable</h1>
+<div class="message">We're sorry, we can't locate the requested page.</div>
+</div>
+</header>
+</div>
+</div>
+</div></div>
+</div>
+<div class="ls-cmp-wrap"  id="w1512667840093" >
+<div class="iw_component"  id="c1512667840093" >
+
+<!-- COMPONENT: vi16-search/Search Box -->
+<div data-componentName="Search Box" class="vi16">
+<div class="search-box wrapper-980" id="searchBoxWrapper">
+<div class="search-tray row justify-content-center">
+<div class="search-tray-content col-xl-4 col-lg-5 col-md-8 col-12">
+<div class="search-form">
+<form id="searchBoxForm" action="/us/search/summary-results">
+<fieldset>
+<input type="text" class="search-input" name="searchText" data-enableautocomplete="true" placeholder="Enter ticker or keyword" />
+<button id="submit" type="submit" class="button-secondary submitSearch submit-button">
+<span><i class="fa fa-search"></i></span>
+</button>
+<input type="hidden" name="doTickerSearch" value="true" />
+</fieldset>
+<input type="hidden" id="generalAutocompleteUrl" value="/us/search/general-results" />
+<input type="hidden" id="glsDocumentsUrl" value="/us/library" />
+<input type="hidden" id="videoSearchUrl" value="/us/document/literature/holdings/ishigib-etf-early-holdings.csv" />
+<input type="hidden" id="productAutocompleteUrl" value="/us/search/products-results" />
+<input type="hidden" id="summaryAutocompleteUrl" value="/us/search/summary-results" class="summaryAutocompleteUrl" />
+<input type="hidden" id="featuredSearchUrl" value="/us/search/summary-results" />
+<input type="hidden" id="unifiedAutocomplete" value="true" class="unifiedAutocomplete" />
+<input type="hidden" id="autocompleteUrl" class="autocompleteUrl" value="/us/autoComplete.search?type=autocomplete" />
+<input type="hidden" id="generalAutocompleteTitle" value="General Results" />
+<input type="hidden" id="glsDocumentsTitle" value="GLS Results" />
+<input type="hidden" id="videoSearchTitle" value="Video Results" />
+<input type="hidden" id="productAutocompleteTitle" value="Products" />
+<input type="hidden" id="summaryAutocompleteTitle" value="See All Search Results" class="summaryAutocompleteTitle" />
+<input type="hidden" id="featuredSearchTitle" value="Featured Results" />
+<input type="hidden" id="seeAll" class="seeAll" value="See All" />
+</form>
+</div>
+<div id="searchBoxResults"></div>
+</div>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="ls-row footer-wrapper" id="footerWrapper" role="contentinfo">
+<div class="ls-area footer-bottom" id="footerBottom">
+<div class="ls-cmp-wrap"  id="w1512667753111" >
+<div class="iw_component"  id="c1512667753111" >
+
+<!-- COMPONENT: vi16-page-frame/Sitemap -->
+<div data-componentName="Sitemap" class="vi16"> <div grid="legacy" brand="ishares">
+<ds-sitemap class="container-fluid ds-bg-ishares-white">
+<div class="row">
+<h3 class="ds-col ds-heading-m-lc ds-sitemap-heading">Explore more</h3>
+</div>
+<div class="row">
+<div class="ds-col ds-sitemap-columns-wrapper ">
+<div class="ds-sitemap-column ds-extra-margin-right">
+<p class="ds-heading-xs-lc ds-sitemap-l1-label">
+Our Funds </p>
+<div class="ds-sitemap-l2-container">
+<p class="ds-eyebrow-s ds-sitemap-category-label">FIND A FUND</p>
+<ul class="ds-sitemap-l3-links-container">
+<li class="ds-sitemap-l3-item">
+<a href="/us/products/etf-investments" aria-label="View all funds" class="ds-body-m ds-link-subdued-secondary">View all funds</a> </li>
+<li class="ds-sitemap-l3-item">
+<a href="/us/products/investment-goals" aria-label="Explore by goals" class="ds-body-m ds-link-subdued-secondary">Explore by goals</a> </li>
+<li class="ds-sitemap-l3-item">
+<a href="/us/products/compare-funds" aria-label="Compare ETFs" class="ds-body-m ds-link-subdued-secondary">Compare ETFs</a> </li>
+</ul>
+</div>
+<div class="ds-sitemap-l2-container">
+<p class="ds-eyebrow-s ds-sitemap-category-label">ASSET CLASS</p>
+<ul class="ds-sitemap-l3-links-container">
+<li class="ds-sitemap-l3-item">
+<a href="/us/products/etf-investments#/?productView=etf&amp;fac=43535|43580|43581|43584|43585|43615" aria-label="Equity" class="ds-body-m ds-link-subdued-secondary">Equity</a> </li>
+<li class="ds-sitemap-l3-item">
+<a href="/us/products/etf-investments#/?productView=etf&amp;fac=43549|43590|43563|43566|43573|43775|43588&amp;dataView=fixedIncomeView" aria-label="Fixed Income" class="ds-body-m ds-link-subdued-secondary">Fixed Income</a> </li>
+<li class="ds-sitemap-l3-item">
+<a href="/us/products/etf-investments#/?productView=etf&amp;fac=43587|43608" aria-label="Commodity" class="ds-body-m ds-link-subdued-secondary">Commodity</a> </li>
+<li class="ds-sitemap-l3-item">
+<a href="/us/products/etf-investments#/?productView=etf&amp;fac=43776" aria-label="Real Estate" class="ds-body-m ds-link-subdued-secondary">Real Estate</a> </li>
+</ul>
+</div>
+<div class="ds-sitemap-l2-container">
+<p class="ds-eyebrow-s ds-sitemap-category-label">PRODUCT RANGE</p>
+<ul class="ds-sitemap-l3-links-container">
+<li class="ds-sitemap-l3-item">
+<a href="/us/products/etf-investments#/?productView=etf&amp;ptrg=4|10|6|2|8" aria-label="Core" class="ds-body-m ds-link-subdued-secondary">Core</a> </li>
+<li class="ds-sitemap-l3-item">
+<a href="/us/products/etf-investments#/?productView=etf&amp;ptrg=81|75|77|83|79|85" aria-label="Factors" class="ds-body-m ds-link-subdued-secondary">Factors</a> </li>
+<li class="ds-sitemap-l3-item">
+<a href="/us/products/etf-investments#/?productView=etf&amp;ptrg=19|22|13|16|25|34|46|49|28|31|40|37|43|55|52|73|70|67|64|61|58" aria-label="Fixed Income" class="ds-body-m ds-link-subdued-secondary">Fixed Income</a> </li>
+<li class="ds-sitemap-l3-item">
+<a href="/us/products/etf-investments#/?productView=etf&amp;ptrg=105|103|99|107|101" aria-label="Megatrends" class="ds-body-m ds-link-subdued-secondary">Megatrends</a> </li>
+<li class="ds-sitemap-l3-item">
+<a href="/us/products/etf-investments#/?productView=etf&amp;ptrg=93|95|97|91" aria-label="Sustainable" class="ds-body-m ds-link-subdued-secondary">Sustainable</a> </li>
+</ul>
+</div>
+<div class="ds-sitemap-l2-container">
+<p class="ds-eyebrow-s ds-sitemap-category-label">FINANCIAL PROFESSIONALS</p>
+<ul class="ds-sitemap-l3-links-container">
+<li class="ds-sitemap-l3-item">
+<a href="/us/products/correlate-funds" aria-label="Find correlated funds" class="ds-body-m ds-link-subdued-secondary padlock">Find correlated funds</a> </li>
+</ul>
+</div>
+<ul class="ds-sitemap-special-links">
+<li class="ds-sitemap-special-link">
+<div class="ds-button" type="transparent" compact="true">
+<div class="ds-button-container">
+<a href="https://www.blackrock.com/us/financial-professionals/investments/ishares-etfs" class="ds-button-small"> ADVISORS: HELP MEET CLIENTS' NEEDS WITH iSHARES ETFs<i class="fa fa-chevron-right"></i>
+</a> </div>
+</div>
+</li>
+</ul>
+</div>
+<div class="ds-sitemap-column ds-extra-margin-right">
+<p class="ds-heading-xs-lc ds-sitemap-l1-label">
+Investment Strategies </p>
+<p class="ds-eyebrow-s ds-sitemap-category-label">EXPLORE NOW</p>
+<ul class="ds-sitemap-l3-links-container">
+<li class="ds-sitemap-l3-item">
+<a href="https://www.ishares.com/us/strategies" aria-label="Learn more about our strategies" class="ds-body-m ds-link-subdued-secondary"> OUR STRATEGIES
+</a> </li>
+</ul>
+<div class="ds-sitemap-l2-container">
+<p class="ds-eyebrow-s ds-sitemap-category-label">GET STARTED</p>
+<ul class="ds-sitemap-l3-links-container">
+<li class="ds-sitemap-l3-item">
+<a href="/us/strategies/core-etfs" aria-label="Explore simplified investing" class="ds-body-m ds-link-subdued-secondary">Explore simplified investing</a> </li>
+<li class="ds-sitemap-l3-item">
+<a href="/us/strategies/invest-with-bond-etfs" aria-label="Invest with bond ETFs" class="ds-body-m ds-link-subdued-secondary">Invest with bond ETFs</a> </li>
+<li class="ds-sitemap-l3-item">
+<a href="/us/strategies/smart-beta-investing" aria-label="Access factor-based strategies" class="ds-body-m ds-link-subdued-secondary">Access factor-based strategies</a> </li>
+<li class="ds-sitemap-l3-item">
+<a href="/us/strategies/find-income-with-ishares" aria-label="Find income with ETFs" class="ds-body-m ds-link-subdued-secondary">Find income with ETFs</a> </li>
+</ul>
+</div>
+<div class="ds-sitemap-l2-container">
+<p class="ds-eyebrow-s ds-sitemap-category-label">GO FURTHER</p>
+<ul class="ds-sitemap-l3-links-container">
+<li class="ds-sitemap-l3-item">
+<a href="/us/strategies/megatrends" aria-label="Invest in the future with megatrends" class="ds-body-m ds-link-subdued-secondary">Invest in the future with megatrends</a> </li>
+<li class="ds-sitemap-l3-item">
+<a href="/us/strategies/international-etfs" aria-label="Diversify internationally" class="ds-body-m ds-link-subdued-secondary">Diversify internationally</a> </li>
+<li class="ds-sitemap-l3-item">
+<a href="/us/strategies/commodities" aria-label="Access commodities with ETPs" class="ds-body-m ds-link-subdued-secondary">Access commodities with ETPs</a> </li>
+</ul>
+</div>
+<div class="ds-sitemap-l2-container">
+<p class="ds-eyebrow-s ds-sitemap-category-label">THINK SUSTAINABLE</p>
+<ul class="ds-sitemap-l3-links-container">
+<li class="ds-sitemap-l3-item">
+<a href="/us/strategies/sustainable-investing" aria-label="Learn about sustainable investing" class="ds-body-m ds-link-subdued-secondary">Learn about sustainable investing</a> </li>
+<li class="ds-sitemap-l3-item">
+<a href="/us/strategies/sustainable-investing/esg-fund-range" aria-label="Match your investment goals to sustainable ETFs" class="ds-body-m ds-link-subdued-secondary">Match your investment goals to sustainable ETFs</a> </li>
+</ul>
+</div>
+<ul class="ds-sitemap-special-links">
+<li class="ds-sitemap-special-link">
+<div class="ds-button" type="transparent" compact="true">
+<div class="ds-button-container">
+<a href="https://www.blackrock.com/us/financial-professionals/investment-strategies/preparing-portfolios" class="ds-button-small"> ADVISORS: REDESIGN PORTFOLIOS<i class="fa fa-chevron-right"></i>
+</a> </div>
+</div>
+</li>
+</ul>
+</div>
+<div class="ds-sitemap-column ds-extra-margin-right">
+<p class="ds-heading-xs-lc ds-sitemap-l1-label">
+Market Insights </p>
+<p class="ds-eyebrow-s ds-sitemap-category-label">EXPLORE NOW</p>
+<ul class="ds-sitemap-l3-links-container">
+<li class="ds-sitemap-l3-item">
+<a href="https://www.ishares.com/us/insights" aria-label="Read our outlook and insights" class="ds-body-m ds-link-subdued-secondary"> OUTLOOK & INSIGHTS
+</a> </li>
+</ul>
+<div class="ds-sitemap-l2-container">
+<p class="ds-eyebrow-s ds-sitemap-category-label">MARKET INSIGHTS</p>
+<ul class="ds-sitemap-l3-links-container">
+<li class="ds-sitemap-l3-item">
+<a href="/us/insights/etf-trends/how-climate-change-will-impact-portfolios" aria-label="A sea change in global investing" class="ds-body-m ds-link-subdued-secondary">A sea change in global investing</a> </li>
+<li class="ds-sitemap-l3-item">
+<a href="/us/insights/investor-progress-report" aria-label="iShares report on investor progress" class="ds-body-m ds-link-subdued-secondary">iShares report on investor progress</a> </li>
+<li class="ds-sitemap-l3-item">
+<a href="/us/insights/ishares-2022-outlook-and-etf-investment-guide" aria-label="iShares 2022 outlook and ETF implementation guide" class="ds-body-m ds-link-subdued-secondary">iShares 2022 outlook and ETF implementation guide</a> </li>
+<li class="ds-sitemap-l3-item">
+<a href="/us/insights/dividend-growth-and-inflation" aria-label="What’s risen faster than inflation? Dividends" class="ds-body-m ds-link-subdued-secondary">What’s risen faster than inflation? Dividends</a> </li>
+</ul>
+</div>
+<div class="ds-sitemap-l2-container">
+<p class="ds-eyebrow-s ds-sitemap-category-label">ETF FLOWS</p>
+<ul class="ds-sitemap-l3-links-container">
+<li class="ds-sitemap-l3-item">
+<a href="/us/insights/flow-and-tell-november-2021" aria-label="Last month&#39;s ETF flows" class="ds-body-m ds-link-subdued-secondary">Last month&#39;s ETF flows</a> </li>
+<li class="ds-sitemap-l3-item">
+<a href="https://www.ishares.com/us/insights#etf-flows" aria-label="View all ETF flows" class="ds-body-m ds-link-subdued-secondary">View all ETF flows</a> </li>
+</ul>
+</div>
+<ul class="ds-sitemap-special-links">
+<li class="ds-sitemap-special-link">
+<div class="ds-button" type="transparent" compact="true">
+<div class="ds-button-container">
+<a href="https://www.blackrock.com/us/financial-professionals/insights" class="ds-button-small"> ADVISORS: EXPLORE INSIGHTS BY BLACKROCK<i class="fa fa-chevron-right"></i>
+</a> </div>
+</div>
+</li>
+</ul>
+</div>
+<div class="ds-sitemap-column ds-extra-margin-right">
+<p class="ds-heading-xs-lc ds-sitemap-l1-label">
+Education </p>
+<div class="ds-sitemap-l2-container">
+<p class="ds-eyebrow-s ds-sitemap-category-label">ETFs</p>
+<ul class="ds-sitemap-l3-links-container">
+<li class="ds-sitemap-l3-item">
+<a href="/us/about-etfs/what-is-an-etf" aria-label="What is an ETF?" class="ds-body-m ds-link-subdued-secondary">What is an ETF?</a> </li>
+<li class="ds-sitemap-l3-item">
+<a href="/us/education/comparing-etfs-to-mutual-funds" aria-label="ETFs vs. Mutual Funds" class="ds-body-m ds-link-subdued-secondary">ETFs vs. Mutual Funds</a> </li>
+<li class="ds-sitemap-l3-item">
+<a href="/us/about-etfs/how-to-buy-etfs" aria-label="How to buy ETFs" class="ds-body-m ds-link-subdued-secondary">How to buy ETFs</a> </li>
+<li class="ds-sitemap-l3-item">
+<a href="/us/education/etf-ecosystem" aria-label="ETF ecosystem" class="ds-body-m ds-link-subdued-secondary">ETF ecosystem</a> </li>
+</ul>
+</div>
+<div class="ds-sitemap-l2-container">
+<p class="ds-eyebrow-s ds-sitemap-category-label">INDEX INVESTING</p>
+<ul class="ds-sitemap-l3-links-container">
+<li class="ds-sitemap-l3-item">
+<a href="/us/education/index-investing" aria-label="What is index investing?" class="ds-body-m ds-link-subdued-secondary">What is index investing?</a> </li>
+<li class="ds-sitemap-l3-item">
+<a href="/us/education/bond-indexing" aria-label="What is bond indexing?" class="ds-body-m ds-link-subdued-secondary">What is bond indexing?</a> </li>
+<li class="ds-sitemap-l3-item">
+<a href="/us/education/smart-beta" aria-label="What is smart beta?" class="ds-body-m ds-link-subdued-secondary">What is smart beta?</a> </li>
+<li class="ds-sitemap-l3-item">
+<a href="/us/education/sustainable-investing/resources" aria-label="What is sustainable investing?" class="ds-body-m ds-link-subdued-secondary">What is sustainable investing?</a> </li>
+</ul>
+</div>
+<ul class="ds-sitemap-special-links">
+<li class="ds-sitemap-special-link">
+<div class="ds-button" type="transparent" compact="true">
+<div class="ds-button-container">
+<a href="https://www.blackrock.com/us/financial-professionals/your-practice/earn-continuing-education-credits" class="ds-button-small"> ADVISORS: EARN CE CREDITS<i class="fa fa-chevron-right"></i>
+</a> </div>
+</div>
+</li>
+</ul>
+</div>
+<div class="ds-sitemap-column ds-extra-margin-right">
+<p class="ds-heading-xs-lc ds-sitemap-l1-label">
+Resources </p>
+<div class="ds-sitemap-l2-container">
+<p class="ds-eyebrow-s ds-sitemap-category-label">TOOLS</p>
+<ul class="ds-sitemap-l3-links-container">
+<li class="ds-sitemap-l3-item">
+<a href="/us/resources/tools/core-builder" aria-label="Build a diversified portfolio" class="ds-body-m ds-link-subdued-secondary">Build a diversified portfolio</a> </li>
+<li class="ds-sitemap-l3-item">
+<a href="/us/resources/tools/ibonds" aria-label="Customize bond ladders" class="ds-body-m ds-link-subdued-secondary">Customize bond ladders</a> </li>
+<li class="ds-sitemap-l3-item">
+<a href="/us/resources/tools" aria-label="View all tools" class="ds-body-m ds-link-subdued-secondary">View all tools</a> </li>
+</ul>
+</div>
+<div class="ds-sitemap-l2-container">
+<p class="ds-eyebrow-s ds-sitemap-category-label">DOCUMENTS</p>
+<ul class="ds-sitemap-l3-links-container">
+<li class="ds-sitemap-l3-item">
+<a href="/us/library/financial-legal-tax" aria-label="Financial &amp; legal" class="ds-body-m ds-link-subdued-secondary">Financial &amp; legal</a> </li>
+<li class="ds-sitemap-l3-item">
+<a href="/us/library" aria-label="View all documents" class="ds-body-m ds-link-subdued-secondary">View all documents</a> </li>
+<li class="ds-sitemap-l3-item">
+<a href="/us/education/etfs-and-taxes" aria-label="iShares tax center" class="ds-body-m ds-link-subdued-secondary">iShares tax center</a> </li>
+<li class="ds-sitemap-l3-item">
+<a href="/us/library/tax" aria-label="Tax documents" class="ds-body-m ds-link-subdued-secondary">Tax documents</a> </li>
+<li class="ds-sitemap-l3-item">
+<a href="/us/capital-gains-distributions" aria-label="Capital gains distributions" class="ds-body-m ds-link-subdued-secondary">Capital gains distributions</a> </li>
+</ul>
+</div>
+<div class="ds-sitemap-l2-container">
+<p class="ds-eyebrow-s ds-sitemap-category-label">INSTITUTIONAL RESOURCES</p>
+<ul class="ds-sitemap-l3-links-container">
+<li class="ds-sitemap-l3-item">
+<a href="/us/resources/institutional-investors" aria-label="Partner with iShares" class="ds-body-m ds-link-subdued-secondary">Partner with iShares</a> </li>
+<li class="ds-sitemap-l3-item">
+<a href="/us/resources/institutional-investors/bond-etfs" aria-label="Explore fixed income ETFs" class="ds-body-m ds-link-subdued-secondary">Explore fixed income ETFs</a> </li>
+<li class="ds-sitemap-l3-item">
+<a href="/us/resources/institutional-investors/tools-services" aria-label="Access tools for institutions" class="ds-body-m ds-link-subdued-secondary">Access tools for institutions</a> </li>
+<li class="ds-sitemap-l3-item">
+<a href="/us/resources/institutional-investors/events-and-webcasts" aria-label="Attend virtual events" class="ds-body-m ds-link-subdued-secondary">Attend virtual events</a> </li>
+<li class="ds-sitemap-l3-item">
+<a href="/us/resources/institutional-investors/portfolio-consulting" aria-label="Request a portfolio consultation" class="ds-body-m ds-link-subdued-secondary">Request a portfolio consultation</a> </li>
+<li class="ds-sitemap-l3-item">
+<a href="/us/resources/institutional-investors/factor-etfs" aria-label="Capture factors with ETFs" class="ds-body-m ds-link-subdued-secondary">Capture factors with ETFs</a> </li>
+</ul>
+</div>
+<ul class="ds-sitemap-special-links">
+<li class="ds-sitemap-special-link">
+<div class="ds-button" type="transparent" compact="true">
+<div class="ds-button-container">
+<a href="https://www.blackrock.com/us/financial-professionals/tools" class="ds-button-small"> ADVISORS: EXPLORE MORE TOOLS<i class="fa fa-chevron-right"></i>
+</a> </div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</ds-sitemap>
+</div>
+</div></div>
+</div>
+<div class="ls-cmp-wrap"  id="w1512667753112" >
+<div class="iw_component"  id="c1512667753112" >
+
+<!-- COMPONENT: vi16-page-frame/Footer -->
+<div grid="wide-fluid" brand="ishares">
+<ds-footer class="ds-bg-ishares-gray">
+<div class="container-fluid">
+<div class="row ds-footer-container">
+<div class="ds-col col-sm-10 col-md-8 col-lg-5 ds-footer-brand-block">
+<a href="/us" title="Go to iShares Homepage" class="ds-ishares-logo"><img src="/blk-one-assets/cache-1576004812000/images/media-bin/web/global/logos/logo-ishares.svg" alt="iShares by BlackRock"/></a> <div class="ds-body-m ds-brand-desc"><p><span>iShares unlocks opportunity across markets to meet the evolving needs of investors. With more than twenty years of experience and a global line-up of 900+ ETFs, iShares continues to drive progress for the financial industry. iShares funds are powered by the expert portfolio and risk management of BlackRock.</span></p></div>
+<div class="ds-col ds-footer-social-links" role="navigation">
+<a href="https://www.facebook.com/iShares/" data-link-event="facebook" aria-label="Facebook(Opens in a new tab)" target="_blank" class="ds-social-link ds-bg-ishares-black"> <span class="ds-social-icon ds-text-white">
+<i class="fa fa-facebook"></i>
+</span>
+</a>
+<a href="https://www.linkedin.com/company/ishares" data-link-event="linkedin" aria-label="LinkedIn(Opens in a new tab)" target="_blank" class="ds-social-link ds-bg-ishares-black"> <span class="ds-social-icon ds-text-white">
+<i class="fa fa-linkedin"></i>
+</span>
+</a>
+<a href="https://twitter.com/iShares" data-link-event="twitter" aria-label="Twitter(Opens in a new tab)" target="_blank" class="ds-social-link ds-bg-ishares-black"> <span class="ds-social-icon ds-text-white">
+<i class="fa fa-twitter"></i>
+</span>
+</a>
+<a href="https://www.youtube.com/user/isharesetfs" data-link-event="youtube" aria-label="YouTube(Opens in a new tab)" target="_blank" class="ds-social-link ds-bg-ishares-black"> <span class="ds-social-icon ds-text-white">
+<i class="fa fa-youtube"></i>
+</span>
+</a>
+<a href="https://www.blackrockblog.com" data-link-event="blk-blog" aria-label="BlackRock Blog(Opens in a new tab)" target="_blank" class="ds-social-link ds-bg-ishares-black"> <span class="ds-social-icon ds-text-white">
+<i class="fa fa-rss"></i>
+</span>
+</a>
+</div>
+</div>
+<div class="ds-col col-lg-6 ds-footer-link-block">
+<div class="ds-col col-sm-6 ds-link-column">
+<p class="ds-eyebrow-s ds-column-label">corporate</p>
+<div class="ds-links">
+<div class="ds-footer-link">
+<a class="ds-link-subdued-secondary"
+data-link-event="cta:About iShares"
+aria-label="Go to About iShares"
+target="_self"
+href="https://www.ishares.com/us/resources/about-ishares">
+About iShares
+</a>
+</div>
+<div class="ds-footer-link">
+<a class="ds-link-subdued-secondary"
+data-link-event="cta:Contact iShares"
+aria-label="Go to Contact iShares"
+target="_self"
+href="https://www.ishares.com/us/resources/contact-us">
+Contact iShares
+</a>
+</div>
+<div class="ds-footer-link">
+<a class="ds-link-subdued-secondary"
+data-link-event="cta:Product Announcements"
+aria-label="Go to Product Announcements"
+target="_self"
+href="https://www.ishares.com/us/library/press-releases">
+Product Announcements
+</a>
+</div>
+</div>
+</div>
+<div class="ds-col col-sm-6 ds-link-column">
+<p class="ds-eyebrow-s ds-column-label">legal</p>
+<div class="ds-links">
+<div class="ds-footer-link">
+<a class="ds-link-subdued-secondary"
+data-link-event="cta:Terms & Conditions"
+aria-label="Go to Term and Conditions"
+target="_blank"
+href="https://www.blackrock.com/corporate/compliance/terms-and-conditions">
+Terms & Conditions
+</a>
+</div>
+<div class="ds-footer-link">
+<a class="ds-link-subdued-secondary"
+data-link-event="cta:Privacy Policy"
+aria-label="Go to Privacy Policy"
+target="_blank"
+href="https://www.blackrock.com/corporate/compliance/privacy-policy">
+Privacy Policy
+</a>
+</div>
+<div class="ds-footer-link">
+<a class="ds-link-subdued-secondary"
+data-link-event="cta:Business Continuity"
+aria-label="Go to Business Continuity"
+target="_blank"
+href="https://www.blackrock.com/corporate/compliance/business-continuity">
+Business Continuity
+</a>
+</div>
+<div class="ds-footer-link">
+<a class="ds-link-subdued-secondary"
+data-link-event="cta:FINRA BrokerCheck"
+aria-label="Go to FINRA Broker Check"
+target="_blank"
+href="https://brokercheck.finra.org">
+FINRA BrokerCheck
+</a>
+</div>
+<div class="ds-footer-link">
+<button id="ot-sdk-btn" class="ds-button ot-sdk-show-settings ds-link-subdued-secondary ds-body-m-compact-bold">
+Manage Cookies </button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="container-fluid ds-bg-ishares-white">
+<div class="row">
+<p class="ds-col ds-copyright-text ds-body-xs">© 2021 BlackRock, Inc. All rights reserved.</p>
+</div>
+</div>
+</ds-footer>
+</div></div>
+</div>
+<div class="ls-cmp-wrap"  id="w1512667753113" >
+<div class="iw_component"  id="c1512667753113" >
+
+<!-- COMPONENT: vi16-content/Disclosure -->
+<div data-componentName="Disclosure" class="vi16 disclosure"> <div class="wrapper-980 disclosure-cntnr">
+<p class="disclosure-16"><strong>Carefully consider the Funds' investment objectives, risk factors, and charges and expenses before investing. This and other information can be found in the Funds' prospectuses or, if available, the summary prospectuses, which may be obtained by visiting the <a href="/us/library/financial-legal-tax" title="iShares Fund">iShares Fund</a> and <a href="https://www.blackrock.com/us/individual/resources/regulatory-documents/mutual-funds" target="_blank" title="BlackRock Fund" rel="noopener">BlackRock Fund</a> prospectus pages. Read the prospectus carefully before investing.</strong></p>
+</div>
+</div></div>
+</div>
+<div class="ls-cmp-wrap"  id="w1512667753114" >
+<div class="iw_component"  id="c1512667753114" >
+
+<!-- COMPONENT: vi16-content/Disclosure -->
+<div data-componentName="Disclosure" class="vi16 disclosure"> <div class="wrapper-980 disclosure-cntnr">
+<p class="disclosure-16"><strong>Investing involves risk, including possible loss of principal.</strong></p>
+</div>
+</div></div>
+</div>
+<div class="ls-cmp-wrap"  id="w1512667753115" >
+<div class="iw_component"  id="c1512667753115" >
+
+<!-- COMPONENT: vi16-content/Disclosure -->
+<div data-componentName="Disclosure" class="vi16 disclosure"> <div class="wrapper-980 disclosure-cntnr">
+<p class="disclosure-14">The Funds are distributed by BlackRock Investments, LLC (together with its affiliates, "BlackRock").</p>
+</div>
+</div></div>
+</div>
+<div class="ls-cmp-wrap"  id="w1512667753116" >
+<div class="iw_component"  id="c1512667753116" >
+
+<!-- COMPONENT: vi16-content/Disclosure -->
+<div data-componentName="Disclosure" class="vi16 disclosure"> <div class="wrapper-980 disclosure-cntnr">
+<p class="disclosure-14">© 2022 BlackRock, Inc. All rights reserved. <strong>BLACKROCK, BLACKROCK SOLUTIONS, BUILD ON BLACKROCK, ALADDIN, iSHARES, iBONDS, FACTORSELECT, iTHINKING, iSHARES CONNECT, FUND FRENZY, LIFEPATH, SO WHAT DO I DO WITH MY MONEY, INVESTING FOR A NEW WORLD, BUILT FOR THESE TIMES, </strong>the iShares Core Graphic, <strong>CoRI </strong>and the<strong> CoRI logo</strong> are trademarks of BlackRock, Inc., or its subsidiaries in the United States and elsewhere. All other marks are the property of their respective owners.</p>
+</div>
+</div></div>
+</div>
+<div class="ls-cmp-wrap"  id="w1512667753117" >
+<div class="iw_component"  id="c1512667753117" >
+
+<!-- COMPONENT: vi16-content/Disclosure -->
+<div data-componentName="Disclosure" class="vi16 disclosure"> <div class="wrapper-980 disclosure-cntnr">
+<p>ICRMH1020U-1393618</p>
+</div>
+</div></div>
+</div>
+</div>
+</div>
+
+</div>
+</body>
+</html>
